@@ -134,6 +134,7 @@ for(j in unique(sVOI$Aplicacion1.1)){ # loop each aplication
 }
 ```
 
+´´´
 VOI <- read.csv("VOI_BY_EXPERT_SUMMARY.csv", sep=";")
 head(VOI)
 # Summarize info of experts
@@ -209,7 +210,7 @@ appVOI <- appVOI[, -(1)]
 
 Here we calculate and display first the mean VOI score given by the Biodiversity Experts averaged for Overall Conservation by merging all conservation practice goals
 
-```
+´´´
 conservVOI <- sVOI %>% filter(Aplicacion1 == 'Conservation') %>% 
   dplyr::select(-Aplicacion1.1) %>% 
   group_by(Shortfall, Shortfall_Sub, SF) %>%
@@ -247,7 +248,7 @@ All assessments are shown with attention to the VOI-potential of baseline knowle
 
 ## CLIMATE ACTION
 
-```
+´´´
 climVOI <- appVOI %>% filter(Aplicacion1.1 == 'Climate Change ') %>%  ##replace the Aplicacion Field & rename climVOI to "..."VOI object with any other conservation practice to plot (e.g "Area Protection")
   group_by(Shortfall, Shortfall_Sub, SF) %>%
   summarize(meanVOI = mean(meanVOI, na.rm=TRUE))%>% 
@@ -280,11 +281,11 @@ print(ggplot(heatmap,
 head(heatmap)
 ```
 
-  ## RADAR CHARTS BY CONSERVATION PRACTICE (Exemplified by Climate Action)
+## RADAR CHARTS BY CONSERVATION PRACTICE (Exemplified by Climate Action)
 
 Note: Heatmap object needs to be remapped per conservation practice by specifying: VOI <- appVOI %>% filter(Aplicacion1.1 == 'NAME OF ACTIVITY)
 
-```
+´´´
   library(ggradar)
 
   df <- heatmap %>%  select(c(Shortfall,Shortfall_Sub, Group, VOI_IDEA)) %>%
