@@ -1,6 +1,8 @@
 ## 	FIGURE 2A. EXPERT ELICITATIONS OF ECOLOGICAL KNOWLEDGE SHORTFALLS BY BIODIVERSITY GROUP
 
-SUPPORTING DATASET 2. EXPERT ELICITATION ON ANTARCTIC ECOLOGICAL KNOWLEDGE SHORTFALLS & POTENTIAL VALUE OF INFORMATION. All the provided responses (coded in the form of annonymous numerical scores) from the opinions of all the participant experts were stored in a summary table (Supplementary File 2). These materials were generated with the following methodological procedures and used for the below calculations and visualizations.
+SUPPORTING DATASET 2. EXPERT ELICITATION ON ANTARCTIC ECOLOGICAL KNOWLEDGE. All the provided responses (coded in the form of annonymous numerical scores) from the opinions of all the participant experts were stored in a summary table (Supplementary File 2). These materials were generated with the following methodological procedures and used for the below calculations and visualizations.
+
+FILE NAME: S2 IDEA_BY_EXPERT_RESPONSE.CSV
 
 #### Methods for the IDEA elicitation protocol on Antarctic ecological knowledge gaps
 
