@@ -9,14 +9,14 @@ knowledge disciplines for a set of usages. These were: climate change action, bi
 they are directly benefited by a combination of these aspects. In addition, the value of cultural scientific gains were simbolically assinged to constant intermediate levels across disciplines based in the principle that
 all science can be theoretically equally relevant in the future. The value of information was also subdivided in 3 categories per discipline in attention to the complexity of the required information for the purpose since
 not all information has the same complexity and demands for construction as advanced information is nested on previos base knowledge. The description of categories is the following:
-	LINNEAN
-baseline	having species inventories
-intermediate	progress in new species descriptions with inclusion of guess-estimates
-advanced	having holistic repositories with accurate taxonomically-resolved intraspecific variation (subspecies, morphotypes) 
-	PRESTONIAN
-baseline	Having a description of total abundances
-intermediate	Mapping population trends & endangered status
-advanced	Comprehending population dynamics (including stability and critical size)
+1.	LINNEAN
+1.1 baseline	having species inventories
+1.2 intermediate	progress in new species descriptions with inclusion of guess-estimates
+1.3 advanced	having holistic repositories with accurate taxonomically-resolved intraspecific variation (subspecies, morphotypes) 
+2.	PRESTONIAN
+2.1 baseline	Having a description of total abundances
+2.2 intermediate	Mapping population trends & endangered status
+2.3 advanced	Comprehending population dynamics (including stability and critical size)
 	WALLACEAN
 baseline	Having a description of species occurrence ranges
 intermediate	Mapping dynamic models of species distributions
