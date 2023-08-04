@@ -24,7 +24,7 @@ For bryophytes it was an extension of TRY named BryoForTraits (largely biased to
 For other groups we could not find centralized trait repositories and so were all scored to 0. TRY data accession queries were requested via https://www.try-db.org/TryWeb/dp.php Using the fungaltraits v0.0.3 r package we obtained all fungal functional traits available for our curated species inventory. We recorded which fungal species had functional traits present as well as counting how many individual records of functional traits have been recorded for each species on our inventory.
 4.	ABIOTIC TOLERANCE DATA. 'Hutchinsonian' was evaluated with the indicator “sps. with thermal tolerance limits in Globtherm compendium”. However, in this case we updated the compendium with additional entries of 
 Antarctic species with thermal profiles from Antarctic research literature. Data compilation was searched with literature retrieval queries at Web of Science https://www.webofscience.com/wos/woscc/basic-search 
-5.	BIOTIC INTERACTION AND NETWORK DATA. 'Eltonian' was evaluated with the binary indicator “sps. with reported interactions listed in GLOBI repository).
+5.	BIOTIC INTERACTION AND NETWORK DATA. 'Eltonian' was evaluated with the binary indicator “sps. with reported interactions listed in GLOBI repository). See supporting R code for data accession in https://github.com/LuisRPertierra/EcologicalKnowledgeShortfalls-Antarctica/blob/main/Supporting%20R%20Code%20for%20GLOBI%20Data%20Accession
 
 All indicator information per species can be seen in the supporting dataset 1 in the corresponding columns of the same name as a binary character (1= presence, 0=absence). See supporting R code for data retrieval in GLOBI
 
