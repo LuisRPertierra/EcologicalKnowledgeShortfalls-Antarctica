@@ -1,5 +1,7 @@
 ## FIGURE 1C VENN DIAGRAMS OF BIOLOGICAL DATA MOBILIZATION TO CENTRALIZED META-REPOSITORIES
 
+SUPPORTING DATASET 1. SPECIES INVENTORIES AND ASSOCIATED INDICATOR DATA For all anaysis in the work we used a curated checklist of eukaryotic species, available as a supporting data paper: Pertierra et al. 2023 in review in the Biodiversity Data Journal https://digital.csic.es/handle/10261/307449. The list of species comprises about 2000 organisms with taxonomic classification from where all indicator data is compiled and analyzed. This information is found in the supporting dataset 1.
+
 Next we depict the completeness of ecological data mobilization towards centralized public meta-repositories.  
 Venn diagrams of data mobilization to global online repositories were generated from all (or some) subclades for eight biodiversity groups (2 per realm in sensu lato): 
 1. VERTEBRATES Seals and birds
