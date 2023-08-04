@@ -234,14 +234,13 @@ print(ggplot(heatmap,
         theme_minimal() +
         geom_text(aes(label = round(VOI_IDEA,2)),
                   color = "black", size = 4))
-```
+
 ```
 ## RADAR CHARTS. SPECIFIC VOI SCORES PER CONSERVATION PRACTICE WHEN APPLIED TO ANTARCTIC KNOWLEDGE GAPS (EXEMPLIFIED BY CLIMATE ACTION)
 
 The VOI-potential scores identified by the Shortfall experts are now met separately with each of the  knowledge gaps per ecological discipline and biodiversity group identified by the Antarctic biodiversity experts
 All assessments are shown with attention to the VOI-potential of baseline knowledge.
 
-```
 ```
 climVOI <- appVOI %>% filter(Aplicacion1.1 == 'Climate Change ') %>%  ##replace the Aplicacion Field & rename climVOI to "..."VOI object with any other conservation practice to plot (e.g "Area Protection")
   group_by(Shortfall, Shortfall_Sub, SF) %>%
@@ -271,7 +270,7 @@ print(ggplot(heatmap,
         geom_text(aes(label = round(VOI_IDEA,2)),
                   color = "black", size = 4))
 head(heatmap)
-```
+
 ```
 Note: Heatmap object needs to be remapped per conservation practice by specifying: VOI <- appVOI %>% filter(Aplicacion1.1 == 'NAME OF ACTIVITY)
 
