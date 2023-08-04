@@ -16,8 +16,7 @@ Venn diagrams of data mobilization to global online repositories were generated 
 8. PROTISTS Heterotrophic SAR/Chromista.
 
 No diagrams could be made for microorganism groups due to their large numbers and absence of consolidated lists of species. Thus, we restricted the analysis to the species of the eukaryotic checklist of Antarctic biodiversity
-One representative data mobilization indicator was selected per shortfall (excluding Linnean as we use the realized inventories as reference). It must be noted that these indicators do not provide a general view of the status for each shortfall 
-as they cover many elements, but rather provide an example of a widespread metric typically used in some elements of the shortfall dimension. These are:
+One representative data mobilization indicator was selected per shortfall (excluding Linnean as we use the realized inventories as reference and Prestonian since there is only meta-population information for vertebrates and vasculars, using as reference the IUCN red list). It must be noted that these indicators do not provide a general view of the status for each shortfall as they cover many elements, but rather provide an example of a widespread metric typically used in some elements of the shortfall dimension. These are:
 1.	BIOGEOGRAPHICAL SPATIAL DATA. 'Wallacean' data mobilization was retrieved using the indicator “sps. with spatial records in GBIF repository”. 
 2.	EVOLUTIONARY DATA. 'Darwinian' was evaluated with the indicator “sps. with genetic sequences in GenBank repository”.  
 3.	TRAIT DATA. 'Raunkieran' was evaluated with the indicator “sps. with trait data in centralized repositories”. For the case of vertebrates it was Pantheria. For lichen and vascular it was TRY database. 
