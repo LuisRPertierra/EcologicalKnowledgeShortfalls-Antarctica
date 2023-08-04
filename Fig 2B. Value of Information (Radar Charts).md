@@ -66,7 +66,9 @@ The experts defined the relevance of the different ecological knowledge discipli
 
 In attention to the implications of these categories five experts responded with their view on the respective potential value of information (see below summary information of the averaged values). 
 Lastly, the results of the attributed knowledge gaps from the Antarctic expert elicitation (all 21 participants from the Expert Elicitation - see section 2A methods) and the potential value of information attributed 
-from general conservation experts were combined. The results indicate the current applicable value of information for different usages from deepeing the Antarctic ecological knowledge and severing the gaps. 
+from general conservation experts were combined. 
+
+The results indicate the current applicable value of information for different usages from deepeing the Antarctic ecological knowledge and severing the gaps. 
 This estimate thus accounts for the severity of the knowledge gaps and their relevance. Main results (figure 2b) are shown in form of a set of radar graphs per biodiversity subgroup (7 categories).
 
 REFERENCES HERE
