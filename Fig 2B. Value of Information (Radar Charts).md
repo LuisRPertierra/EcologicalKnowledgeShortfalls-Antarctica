@@ -17,26 +17,26 @@ not all information has the same complexity and demands for construction as adva
 2.1 baseline	Having a description of total abundances
 2.2 intermediate	Mapping population trends & endangered status
 2.3 advanced	Comprehending population dynamics (including stability and critical size)
-	WALLACEAN
-baseline	Having a description of species occurrence ranges
-intermediate	Mapping dynamic models of species distributions
-advanced	Comprehending biogeographical patterns and processes
-	DARWINIAN
-baseline	Having a baseline description of evolutionary relationships
-intermediate	Mapping the motion of trait evolution
-advanced	Comprehending evolutionary processes (patterns of speciation nurseries, processes of diversification & drivers)
-	RAUNKIAERAN
-baseline	Having a description of representative traits & functions
-intermediate	Mapping the trait space, diversity and plasticity
-advanced	Comprehending the underlying mechanisms shaping trait diversity & plasticity
-	HUTCHINSONIAN
-baseline	Having a general characterization of abiotic tolerance limits
-intermediate	Mapping exact metabolomics (productivity levels) beyond discrete levels
-advanced	Comprehending trade-offs in life strategies (resource management) shaping productivity levels
-	ELTONIAN
-baseline	Having a general description of representative species-to-species interactions
-intermediate	Mapping functional diversity (levels of non-trophic interactions at the community level)
-advanced	Comprehending the resilience of trophic interaction networks (cascade effects at ecosystem level)
+3. WALLACEAN
+3.1 baseline	Having a description of species occurrence ranges
+3.2 intermediate	Mapping dynamic models of species distributions
+3.3 advanced	Comprehending biogeographical patterns and processes
+4. DARWINIAN
+4.1 baseline	Having a baseline description of evolutionary relationships
+4.2 intermediate	Mapping the motion of trait evolution
+4.3 advanced	Comprehending evolutionary processes (patterns of speciation nurseries, processes of diversification & drivers)
+5. RAUNKIAERAN
+5.1 baseline	Having a description of representative traits & functions
+5.2 intermediate	Mapping the trait space, diversity and plasticity
+5.3 advanced	Comprehending the underlying mechanisms shaping trait diversity & plasticity
+6. HUTCHINSONIAN
+6.1 baseline	Having a general characterization of abiotic tolerance limits
+6.2 intermediate	Mapping exact metabolomics (productivity levels) beyond discrete levels
+6.3 advanced	Comprehending trade-offs in life strategies (resource management) shaping productivity levels
+7. ELTONIAN
+7.1 baseline	Having a general description of representative species-to-species interactions
+7.2 intermediate	Mapping functional diversity (levels of non-trophic interactions at the community level)
+7.3 advanced	Comprehending the resilience of trophic interaction networks (cascade effects at ecosystem level)
 
 In attention to the implications of these categories five experts responded with their view on the respective potential value of information (see below summary information of the averaged values). 
 Lastly, the results of the attributed knowledge gaps from the Antarctic expert elicitation (all 21 participants from the Expert Elicitation - see section 2A methods) and the potential value of information attributed 
