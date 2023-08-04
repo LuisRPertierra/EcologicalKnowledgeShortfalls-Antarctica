@@ -11,6 +11,7 @@ Results display the slope of the inventory completeness as an indicator of satur
 Main results were masked to the cells containing ice-free areas and visually displayed with the licensed GIS software ArcMap 10.3.
 
 REFERENCES 
+
 J. Hortal, F. d. Bello, J. A. F. Diniz-Filho, T. M. Lewinsohn, J. M. Lobo, R. J. Ladle, Seven Shortfalls that Beset Large-Scale Knowledge of Biodiversity. Annual Review of Ecology, Evolution, and Systematics 46, 523-549 (2015)10.1146/annurev-ecolsys-112414-054400).
 
 H. S. Wauchope, J. D. Shaw, A. Terauds, A snapshot of biodiversity protection in Antarctica. Nature Communications 10, 946 (2019); published online Epub2019/02/26 (10.1038/s41467-019-08915-6).
