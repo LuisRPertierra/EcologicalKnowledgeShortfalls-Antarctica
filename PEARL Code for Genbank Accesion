@@ -1,0 +1,54 @@
+		$count{$taxid_final{$info[2]}}{"nucl"}++; #taxid - counts
+	}
+}
+close(IN);
+
+#open nucleotide file 3
+#the file was downloaded from https://ftp.ncbi.nih.gov/pub/taxonomy/accession2taxid/nucl_wgs.accession2taxid.EXTRA.gz
+open(IN, "<nucl_wgs.accession2taxid.EXTRA") or die;
+while(defined(my $input = <IN>)) {
+	chomp($input);
+	my @info = split(/\t/, $input);
+	if (defined($taxid_final{$info[2]})) {
+		$count{$taxid_final{$info[2]}}{"nucl"}++; #taxid - counts
+	}
+}
+close(IN);
+
+#open nucleotide file 4
+#the file was downloaded from https://ftp.ncbi.nih.gov/pub/taxonomy/accession2taxid/pdb.accession2taxid.gz
+open(IN, "<pdb.accession2taxid") or die;
+while(defined(my $input = <IN>)) {
+	chomp($input);
+	my @info = split(/\t/, $input);
+	if (defined($taxid_final{$info[2]})) {
+		$count{$taxid_final{$info[2]}}{"nucl"}++; #species - counts
+	}
+}
+close(IN);
+
+#open protein file 1
+#the file was downloaded from https://ftp.ncbi.nih.gov/pub/taxonomy/accession2taxid/prot.accession2taxid.FULL.gz
+open(IN, "<prot.accession2taxid.FULL") or die;
+while(defined(my $input = <IN>)) {
+	chomp($input);
+	my @info = split(/\t/, $input);
+	if (defined($taxid_final{$info[1]})) {
+		$count{$taxid_final{$info[1]}}{"prot"}++; #taxid - counts
+	}
+}
+close(IN);
+
+#print number of entries linked to nucleotide and protein entries in GenBank
+open(my $file, ">seqs_associated2species.txt") or die;
+print $file "species\tDNA\tproteins\n";
+foreach my $species (sort keys %count) {
+	if (!(defined($count{$species}{"nucl"}))) {
+		print $file "$species\t0\t$count{$species}{'prot'}\n";
+	} elsif (!(defined($count{$species}{"prot"}))) {
+		print $file "$species\t$count{$species}{'nucl'}\t0\n";
+	} else {
+		print $file "$species\t$count{$species}{'nucl'}\t$count{$species}{'prot'}\n";
+	}
+}
+close($file);
