@@ -1,6 +1,6 @@
 
 # 	FIGURE 2B. VALUE OF INFORMATION ASSESSMENTS 
-## VALUE OF INFORMATION Heatmaps
+## VALUE OF INFORMATION VOI-Potential and Heatmaps
 
 The Antarctic expert evaluations inform on the relative perceived knowledge gaps per group. However they do not attribute a value of relevance for practical applications since all knowledge disciplines have the same
 potential for future interest in the theoretical comprehension of the functioning of the ecosystems. Nonetheless specific practical applications require specific knowledge bits to maximize their applied inference.
