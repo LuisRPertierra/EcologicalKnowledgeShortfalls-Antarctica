@@ -26,20 +26,25 @@ Antarctic species with thermal profiles from Antarctic research literature.
 5.	BIOTIC INTERACTION AND NETWORK DATA. 'Eltonian' was evaluated with the binary indicator “sps. with reported interactions listed in GLOBI repository).
 All indicator information per species can be seen in the supporting dataset 1 in the corresponding columns of the same name as a binary character (1= presence, 0=absence).
 
-REFERENCES HERE
-Hortal et al. 2015
-Pertierra et al. 2023
-UICN. 
-MAPPPD.
-Wauchope et al. 2019
-GBIF
-GenBank
-TRY
-BryoForTraits
-FungalTraits
-Pantheria
-Globtherm
-GLOBI
+REFERENCES
+
+J. Hortal, F. d. Bello, J. A. F. Diniz-Filho, T. M. Lewinsohn, J. M. Lobo, R. J. Ladle, Seven Shortfalls that Beset Large-Scale Knowledge of Biodiversity. Annual Review of Ecology, Evolution, and Systematics 46, 523-549 (2015)10.1146/annurev-ecolsys-112414-054400).
+
+H. S. Wauchope, J. D. Shaw, A. Terauds, A snapshot of biodiversity protection in Antarctica. Nature Communications 10, 946 (2019); published online Epub2019/02/26 (10.1038/s41467-019-08915-6).
+
+M. Leray, N. Knowlton, S.-L. Ho, B. N. Nguyen, R. J. Machida, GenBank is a reliable resource for 21st century biodiversity research. Proceedings of the National Academy of Sciences 116, 22651-22656 (2019)doi:10.1073/pnas.1911714116).
+
+J. Kattge et al. TRY plant trait database – enhanced coverage and open access. Global Change Biology 26, 119-188 (2020) https://doi.org/10.1111/gcb.14904).
+
+K. E. Jones, J. Bielby, M. Cardillo, S. A. Fritz, J. O'Dell, C. D. L. Orme, K. Safi, W. Sechrest, E. H. Boakes, C. Carbone, C. Connolly, M. J. Cutts, J. K. Foster, R. Grenyer, M. Habib, C. A. Plaster, S. A. Price, E. A. Rigby, J. Rist, A. Teacher, O. R. P. Bininda-Emonds, J. L. Gittleman, G. M. Mace, A. Purvis, PanTHERIA: a species-level database of life history, ecology, and geography of extant and recently extinct mammals. Ecology 90, 2648-2648 (2009)https://doi.org/10.1890/08-1494.1).
+
+J. H. Poelen, J. D. Simons, C. J. Mungall, Global biotic interactions: An open infrastructure to share and analyze species-interaction datasets. Ecological Informatics 24, 148-159 (2014); published online Epub2014/11/01/ (https://doi.org/10.1016/j.ecoinf.2014.08.005).
+
+GBIF: The Global Biodiversity Information Facility (year) What is GBIF?. Available from https://www.gbif.org/what-is-gbif 
+
+Põlme, S., Abarenkov, K., Henrik Nilsson, R. et al. FungalTraits: a user-friendly traits database of fungi and fungus-like stramenopiles. Fungal Diversity 105, 1–16 (2020). https://doi.org/10.1007/s13225-020-00466-2
+
+Bennett, J., Calosi, P., Clusella-Trullas, S. et al. GlobTherm, a global database on thermal tolerances for aquatic and terrestrial organisms. Sci Data 5, 180022 (2018). https://doi.org/10.1038/sdata.2018.22
 
 The R code written for the calculations and visualization is the following:
 
