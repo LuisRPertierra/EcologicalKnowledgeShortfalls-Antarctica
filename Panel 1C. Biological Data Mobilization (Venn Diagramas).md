@@ -17,14 +17,14 @@ We depict the completeness of ecological data mobilization towards centralized p
 No diagrams could be made for microorganism groups due to their large numbers and absence of consolidated lists of species. Thus, we restricted the analysis to the species of the eukaryotic checklist of Antarctic biodiversity
 One representative data mobilization indicator was selected per shortfall (excluding Linnean as we use the realized inventories as reference and Prestonian since there is only meta-population information for vertebrates and vasculars, using as reference the IUCN red list). It must be noted that these indicators do not provide a general view of the status for each shortfall as they cover many elements, but rather provide an example of a widespread metric typically used in some elements of the shortfall dimension. These are:
 1.	BIOGEOGRAPHICAL SPATIAL DATA. 'Wallacean' data mobilization was retrieved using the indicator “sps. with spatial records in GBIF repository”. See GBIF download methods in 2B. https://github.com/LuisRPertierra/EcologicalKnowledgeShortfalls-Antarctica/blob/main/Panel%201B.%20Completeness%20of%20Spatial%20Inventories.md
-2.	3.	EVOLUTIONARY DATA. 'Darwinian' was evaluated with the indicator “sps. with genetic sequences in GenBank repository”.
+2. EVOLUTIONARY DATA. 'Darwinian' was evaluated with the indicator “sps. with genetic sequences in GenBank repository”.
 See supporting PEARL code for data retrieval in Genbank https://github.com/LuisRPertierra/EcologicalKnowledgeShortfalls-Antarctica/blob/main/PEARL%20Code%20for%20Genbank%20Accesion
-4.	TRAIT DATA. 'Raunkieran' was evaluated with the indicator “sps. with trait data in centralized repositories”. For the case of vertebrates it was Pantheria. For lichen and vascular it was TRY database. 
+3.	TRAIT DATA. 'Raunkieran' was evaluated with the indicator “sps. with trait data in centralized repositories”. For the case of vertebrates it was Pantheria. For lichen and vascular it was TRY database. 
 For bryophytes it was an extension of TRY named BryoForTraits (largely biased towards forest species, but the most complete compendium available). Fungi data was complemented from FungalTraits repository. 
 For other groups we could not find centralized trait repositories and so were all scored to 0. 
-5.	ABIOTIC TOLERANCE DATA. 'Hutchinsonian' was evaluated with the indicator “sps. with thermal tolerance limits in Globtherm compendium”. However, in this case we updated the compendium with additional entries of 
+4.	ABIOTIC TOLERANCE DATA. 'Hutchinsonian' was evaluated with the indicator “sps. with thermal tolerance limits in Globtherm compendium”. However, in this case we updated the compendium with additional entries of 
 Antarctic species with thermal profiles from Antarctic research literature. 
-6.	BIOTIC INTERACTION AND NETWORK DATA. 'Eltonian' was evaluated with the binary indicator “sps. with reported interactions listed in GLOBI repository).
+5.	BIOTIC INTERACTION AND NETWORK DATA. 'Eltonian' was evaluated with the binary indicator “sps. with reported interactions listed in GLOBI repository).
 All indicator information per species can be seen in the supporting dataset 1 in the corresponding columns of the same name as a binary character (1= presence, 0=absence).
 
 REFERENCES
