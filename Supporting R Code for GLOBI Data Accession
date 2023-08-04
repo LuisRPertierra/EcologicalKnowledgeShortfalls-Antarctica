@@ -1,1 +1,121 @@
+setwd("C:/Users/u21844012/Desktop/EltoInteractions")
 
+#test <- read.table(file='interactions.tsv', sep='\t')
+
+#"head -100 interactions.tsv"
+
+#install.packages("rglobi")
+
+library(rglobi)
+
+taxon.names <- read.csv("taxonnames.csv", header = TRUE)
+taxonnames <- read.csv("taxonnames.csv", header = TRUE)
+
+get_child_taxa(taxonlist, rank = "Species", skip = 0, limit = 25,
+               opts = list())
+
+taxonlist <- list(taxon.names)
+
+get_child_taxa(taxonlist, rank = "Species", skip = 0, limit = 25,
+               opts = list())
+
+#interactions.csv.gz
+#| gunzip\
+#| mlr --csv filter '$sourceTaxonKingdomName == "Fungi"'\
+#| mlr --csv filter '$targetTaxonGenusName == "Quercus"'\
+#| mlr --csv cut -f sourceTaxonName,targetTaxonName\
+#> data/oakfungi.csv
+#> 
+
+get_interactions(taxon = "Homo sapiens", interaction.type = NULL)
+get_interactions_by_taxa(sourcetaxon = "Rattus", interactiontype = NULL, returnobservations = F)
+
+get_interactions_by_taxa(sourcetaxon = taxonlist)
+
+get_interactions_by_taxa(sourcetaxon = taxonlist, targettaxon = NULL,
+                         interactiontype = NULL, accordingto = NULL,
+                         showfield = c("source_taxon_external_id", "source_taxon_name",
+                                       "source_taxon_path", "source_specimen_life_stage", "interaction_type",
+                                       "target_taxon_external_id", "target_taxon_name", "target_taxon_path",
+                                       "target_specimen_life_stage", "latitude", "longitude", "study_citation",
+                                       "study_external_id", "study_source_citation"), otherkeys = list("limit"=22000, "skip"=0),
+                         bbox = NULL, returnobservations = F, opts = list(),
+                         read_csv = read_csv_online)
+
+
+p <- get_interaction_table(source.taxon.names = list(taxon.names),
+                      target.taxon.names = NULL, interaction.type = "preysOn",
+                      skip = 0, limit = 1, opts = list())
+
+write.table(p, "spdata.csv")
+
+
+
+
+get_interactions_by_taxa(sourcetaxon = taxonlist, targettaxon = NULL,
+                         interactiontype = NULL, accordingto = NULL,
+                         showfield = c("source_taxon_external_id", "source_taxon_name",
+                                       "source_taxon_path", "source_specimen_life_stage", "interaction_type",
+                                       "target_taxon_external_id", "target_taxon_name", "target_taxon_path",
+                                       "target_specimen_life_stage", "latitude", "longitude", "study_citation",
+                                       "study_external_id", "study_source_citation"), otherkeys = list("limit"=22000, "skip"=0),
+                         bbox = NULL, returnobservations = F, opts = list(),
+                         )
+
+penguin <- get_interactions_by_taxa(sourcetaxon = "Pygoscelis papua", "Pygoscelis adelie")
+head(penguin)
+
+penguin <- get_interactions_by_taxa(sourcetaxon = "Pygoscelis papua",  otherkeys = list("limit"=1, "skip"=0))
+head(penguin)
+
+##not working
+child <- get_child_taxa(taxon.names = taxonlist, rank = "Species", skip = 0, limit = 25,
+               opts = list())
+child <- get_child_taxa(taxon.names = taxonlist, rank = "Species", skip = 0, limit = 25,
+                        opts = list())
+child <- get_child_taxa(list("Aves"))
+
+get_child_taxa(taxon.names = "Aves")
+###
+
+
+get_interactions(taxon = "Pygoscelis papua", interaction.type = NULL, otherkeys = list("limit"=1, "skip"=0))
+
+interlist <- get_interactions(taxon.names = taxonlist, interaction.type = NULL, otherkeys = list("limit"=1, "skip"=0))
+write.table(interlist, "interacts.csv")
+
+########OPERATIONAL CODE#############################
+
+###get interactions by area#############
+area <- get_interactions_in_area(bbox = c(-90, -180, -60, 180), otherkeys = list("limit"=10000, "skip"=0))
+write.table(area, "fullareadata.csv")
+
+#####LOOP of all species for presence/absence of interaction knowledge#####
+
+i = 2
+
+for (i in 2:(nrow(taxonnames))) {
+#for (i in 2:50) {
+  interact <- get_interactions(taxon = (taxonnames$Species)[i], interaction.type = NULL, otherkeys = list("limit"=1, "skip"=0))
+  write.csv(interact, file=paste("C:/Users/u21844012/Desktop/EltoInteractions/Output/",unique(taxonnames$Species)[i],".csv",sep=""),row.names=F)
+}
+
+library(openxlsx)
+library(dplyr)
+library(readr)
+
+df <- list.files(path= "C:/Users/U21844012/Desktop/EltoInteractions/Output/", full.names=TRUE) %>% 
+  lapply(read_csv) %>% 
+  bind_rows 
+
+write.csv(df, "Allinteractions.csv")
+
+taxonnames[1,]
+taxonnames[i,]
+(taxonnames$Species)[i]
+
+ind <- read.csv(file = "All indicators.csv")
+eltonian <- read.csv(file = "eltonian.csv")
+
+ind <- merge(ind, eltonian, by.x='SpeciesAccepted', by.y='SpeciesAccepted', all.x =TRUE)
+write.csv(ind, "All3indicators.csv")
