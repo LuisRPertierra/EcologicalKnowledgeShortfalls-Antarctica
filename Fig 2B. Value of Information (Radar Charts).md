@@ -1,5 +1,5 @@
 
-# 	FIGURE 2B. VALUE OF INFORMATION ASSESSMENTS OF KNOWLEDGE GAP FILLING FOR PRACTICAL APPLICATIONS
+# 	FIGURE 2B. VALUE OF INFORMATION ASSESSMENTS 
 ## VALUE OF INFORMATION Heatmaps
 
 The Antarctic expert evaluations inform on the relative perceived knowledge gaps per group. However they do not attribute a value of relevance for practical applications since all knowledge disciplines have the same
@@ -236,7 +236,7 @@ print(ggplot(heatmap,
                   color = "black", size = 4))
 
 ```
-## VALUE-OF-INFORMATION RADAR CHARTS. 
+## VALUE-OF-INFORMATION RADAR CHARTS 
 ### SPECIFIC VOI SCORES PER CONSERVATION PRACTICE WHEN APPLIED TO ANTARCTIC KNOWLEDGE GAPS (EXEMPLIFIED BY CLIMATE ACTION)
 
 The VOI-potential scores identified by the Shortfall experts are now met separately with each of the  knowledge gaps per ecological discipline and biodiversity group identified by the Antarctic biodiversity experts
