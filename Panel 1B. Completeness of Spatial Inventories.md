@@ -3,12 +3,10 @@
 
 SUPPORTING DATASET 1. SPECIES INVENTORIES AND ASSOCIATED INDICATOR DATA For all anaysis in the work we used a curated checklist of eukaryotic species, available as a supporting data paper: Pertierra et al. 2023 in review in the Biodiversity Data Journal https://digital.csic.es/handle/10261/307449. The list of species comprises about 2000 organisms with taxonomic classification from where all indicator data is compiled and analyzed. This information is found in the supporting dataset 1.
 
-We calculated the spatial completeness of species inventories in the continent using the R package KnowBR.
-All GBIF ocurrence records for any of the biodiversity checklist of species were retrieved from GBIF. This information was combined with extra spatial information from
-an updated version of the spatial occurrence records of Wauchope et al. (2019) listed in the Antarctic Biodiversity Digital Database (doi:10.4225/15/59100ba9157f7) 
-A total of >200.000 records were compilated. For this analysis we defined a spatial resolution of 50-50 Km. from where we generated a grid with cells for all the emerged lands of the continent.
-Results display the slope of the inventory completeness as an indicator of saturation. We used the 'rational' method for the estimations and set the abundance to 1 for each observation.
-Main results were masked to the cells containing ice-free areas and visually displayed with the licensed GIS software ArcMap 10.3.
+#### Methods for the spatial inventory completeness analysis
+
+We calculated the spatial completeness of species inventories in the continent using the R package KnowBR.The inventory of completeness was calculated using two sources of geographical information. Occurrences records with coordinates placed in the study area uploaded in GBIF (GBIF.org 2023b) together with extra spatial information from
+an updated version of the spatial occurrence records of Wauchope et al. (2019) listed in the Antarctic Biodiversity Digital Database (doi:10.4225/15/59100ba9157f7). Records were rounded to 2 decimals. A total of >200.000 records were compilated. For this analysis we defined a spatial resolution of 50-50 Km. from where we generated a grid with cells for all the emerged lands of the continent.  Results display the slope of the inventory discovery rates as an indicator of completeness. We used the 'rational' method for the estimations and set the abundance to 1 for each observation. Main results were masked to the cells containing ice-free areas and visually displayed with the licensed GIS software ArcMap 10.3.
 
 REFERENCES 
 
