@@ -1,12 +1,13 @@
 ## 	FIGURE 2A. EXPERT ELICITATIONS OF ECOLOGICAL KNOWLEDGE SHORTFALLS BY BIODIVERSITY GROUP
 
-A complementary screening and systematic revision of the state of knowledge under the shortfalls’ framework was performed under a structured IDEA elicitation process (Hemming et al. 2018) 
+SUPPORTING DATASET 2. EXPERT ELICITATION ON ANTARCTIC ECOLOGICAL KNOWLEDGE SHORTFALLS & POTENTIAL VALUE OF INFORMATION. All the provided responses (coded in the form of annonymous numerical scores) from the opinions of all the participant experts were stored in a summary table. These materials were generated with the following methodological procedures and used for the below calculations and visualizations.
+
+ELICITATION PROTOCOL A complementary screening and systematic revision of the state of knowledge under the shortfalls’ framework was performed under a structured IDEA elicitation process (Hemming et al. 2018) 
 paired with a literature narrative synthesis. A diverse group with expertise in different aspects of ecological research were approached to jointly assess the global state of shortfalls 
 in knowledge of Antarctic biodiversity and ecosystem functioning. Group experts were selected to confer diversity (age, sex and nationality) and specialization in different disciplines. 
 Estimates were provided in a frequency completion format (%). These experts were asked to provide insight on the levels of our understanding of Antarctic biodiversity patterns and processes, 
 identify knowledge gaps and unknowns, discuss the implications of the current state of knowledge for both theoretical understanding and practical conservation, and propose targeted mitigation efforts. 
-Evaluations were organized into four groups of terrestrial, semi-terrestrial and/or freshwater species: vertebrates (breeding birds and seals), invertebrates (arthropods and other microinvertebrates, free-living and parasitic), 
-flora (vascular plants, bryophytes, lichen and fungi), algae and protists, and microorganisms (bacteria, archeae and viruses). Experts were questioned about the status of the different groups of biota present
+Evaluations were organized into four groups of terrestrial, semi-terrestrial and/or freshwater species: vertebrates (breeding birds and seals), invertebrates (arthropods and other microinvertebrates, free-living and parasitic), flora (vascular plants, bryophytes, lichen and fungi), algae and protists, and microorganisms (bacteria, archeae and viruses). Experts were questioned about the status of the different groups of biota present
  in Antarctic terrestrial & freshwater ecosystems following a four-step expert elicitation protocol (IDEA). We used standardized credible intervals (80%) together with levels of confidence given 
  by the participants following the Hemmings et al. (2018) formula. In cases where the adjusted intervals fell beyond reasonable bounds (such as [0, 100%] for probabilities), we
  truncated distributions at their extremes. Experts were encouraged to revise their estimates in Round 2 if the extrapolation did not represent their true belief.
