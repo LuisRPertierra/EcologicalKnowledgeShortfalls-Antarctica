@@ -10,9 +10,12 @@ A total of >200.000 records were compilated. For this analysis we defined a spat
 Results display the slope of the inventory completeness as an indicator of saturation. We used the 'rational' method for the estimations and set the abundance to 1 for each observation.
 Main results were masked to the cells containing ice-free areas and visually displayed with the licensed GIS software ArcMap 10.3.
 
-REFERENCES HERE 
-Lobo et al. 2018
-Wauchope et al. 2019 
+REFERENCES 
+J. Hortal, F. d. Bello, J. A. F. Diniz-Filho, T. M. Lewinsohn, J. M. Lobo, R. J. Ladle, Seven Shortfalls that Beset Large-Scale Knowledge of Biodiversity. Annual Review of Ecology, Evolution, and Systematics 46, 523-549 (2015)10.1146/annurev-ecolsys-112414-054400).
+
+H. S. Wauchope, J. D. Shaw, A. Terauds, A snapshot of biodiversity protection in Antarctica. Nature Communications 10, 946 (2019); published online Epub2019/02/26 (10.1038/s41467-019-08915-6).
+
+J. M. Lobo, J. Hortal, J. L. Yela, A. Millán, D. Sánchez-Fernández, E. García-Roselló, J. González-Dacosta, J. Heine, L. González-Vilas, C. Guisande, KnowBR: An application to map the geographical variation of survey effort and identify well-surveyed areas from biodiversity databases. Ecological Indicators 91, 241-248 (2018); published online Epub2018/08/01/ (https://doi.org/10.1016/j.ecolind.2018.03.077).
 
 The R code written for the calculations and visualization is the following:
 
