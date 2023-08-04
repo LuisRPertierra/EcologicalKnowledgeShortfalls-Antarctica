@@ -5,6 +5,32 @@ SUPPORTING DATASET 1. SPECIES INVENTORIES AND ASSOCIATED INDICATOR DATA
 For all anaysis in the work we used a curated checklist of eukaryotic species, available as a supporting data paper: Pertierra et al. 2023 in review in the Biodiversity Data Journal https://digital.csic.es/handle/10261/307449.
 The list of species comprises about 2000 organisms with taxonomic classification from where all indicator data is compiled and analyzed. This information is found in the supporting dataset 1.
 
+Methods to calculate the Species accumulation curves (SACs)
+
+For the generation of the species accumulation curves we retrieved the first year of description in Antarctica for all the species listed. The estimate was restricted to a temporal range of data between 1850-2022. 
+To do this, we first downloaded all the records available in the Global Biodiversity Information Facility (GBIF) of the list of species (GBIF.org 2023a; GBIF.org 2023b; GBIF.org 2023c). We also extracted the information of the Australian Database (ref). We then classified each species based on their biogeographic location as:
+
+A)	‘Endemic’: those species with occurrences records located exclusively between -60º and -90º Latitude or with no coordinates but assigned originally and exclusively to the Antarctic continent.
+
+B)	‘Cosmopolitan’: those species with occurrences located in the Antarctic region and above -60º of Latitude
+
+C)	‘UncertainAntarctic’: those species referenced in the Antarctic region whose occurrences records are only located above -60º of Latitude
+
+D)	‘UncertainGlobally’: species with no information in either GBIF or the Australian list
+
+Based on the biogeographical information we assigned the first year of Antarctic description as:
+‘Endemic’: year of species description
+‘Cosmopolitan’: eldest year of collection of a record in the Antarctic region
+
+REFERENCES
+J. Hortal, F. d. Bello, J. A. F. Diniz-Filho, T. M. Lewinsohn, J. M. Lobo, R. J. Ladle, Seven Shortfalls that Beset Large-Scale Knowledge of Biodiversity. Annual Review of Ecology, Evolution, and Systematics 46, 523-549 (2015)10.1146/annurev-ecolsys-112414-054400).
+H. S. Wauchope, J. D. Shaw, A. Terauds, A snapshot of biodiversity protection in Antarctica. Nature Communications 10, 946 (2019); published online Epub2019/02/26 (10.1038/s41467-019-08915-6).
+Pertierra et al. 2023 in review in the Biodiversity Data Journal https://digital.csic.es/handle/10261/307449.
+GBIF.org 2023a. GBIF.org (24 February 2023) GBIF Occurrence Download https://doi.org/10.15468/dl.r3a2kd
+GBIF.org 2023b. GBIF.org (24 February 2023) GBIF Occurrence Download https://doi.org/10.15468/dl.8y2ss9
+GBIF.org 2023c. GBIF.org (06 March 2023) GBIF Occurrence Download https://doi.org/10.15468/dl.jm8nze
+
+
 REFERENCES
 
 J. Hortal, F. d. Bello, J. A. F. Diniz-Filho, T. M. Lewinsohn, J. M. Lobo, R. J. Ladle, Seven Shortfalls that Beset Large-Scale Knowledge of Biodiversity. Annual Review of Ecology, Evolution, and Systematics 46, 523-549 (2015)10.1146/annurev-ecolsys-112414-054400).
@@ -13,8 +39,6 @@ H. S. Wauchope, J. D. Shaw, A. Terauds, A snapshot of biodiversity protection in
 
 Pertierra et al. 2023 in review in the Biodiversity Data Journal https://digital.csic.es/handle/10261/307449.
 
-For all the S1 species we retrieved the original discovery year (worldwide), and where available, the first record in Antarctica. The original description information was used to generate species accumulation curves. 
-Approximate total diversity per group was estimated from the projection of the accumulation curves. 
 The R code written for the calculations and visualization is the following:
 
 ## Variables
