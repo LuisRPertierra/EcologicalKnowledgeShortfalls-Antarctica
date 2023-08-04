@@ -137,23 +137,19 @@ for(j in unique(sVOI$Aplicacion1.1)){ # loop each aplication
 ´´´
 VOI <- read.csv("VOI_BY_EXPERT_SUMMARY.csv", sep=";")
 head(VOI)
-# Summarize info of experts
 sVOI <- VOI %>% dplyr::select(-Expert) %>% 
   group_by(Shortfall,Shortfall_Sub, Aplicacion1, Aplicacion1.1) %>%
   summarize(meanVOI = mean(VOI, na.rm=TRUE))
-# Create a new field to join shortfall+level strings
 sVOI$SF <- paste0(sVOI$Shortfall,'_', sVOI$Shortfall_Sub)
 head(sVOI)
 
 
 ELICIT <- read.csv("IDEA_dataframe.csv", sep=";")
 head(ELICIT)
-# Summarize info of experts
 sELICIT <- ELICIT %>% dplyr::select(Shortfall, BestEstimateR,Group) %>% 
   group_by(Shortfall, Group) %>%
   summarize(BestEstimateR = mean(BestEstimateR, na.rm=TRUE)) %>%
   pivot_wider(names_from = Group, values_from = BestEstimateR)
-# Inverted values of estimates
 sELICITinv <- 100 - sELICIT[,2:8]
 sELICITinv <- cbind(sELICIT$Shortfall, sELICITinv)
 head(sELICITinv)
@@ -207,10 +203,9 @@ appVOI <- appVOI[, -(1)]
                     color = "black", size = 4))
 }
 ```
-
 Here we calculate and display first the mean VOI score given by the Biodiversity Experts averaged for Overall Conservation by merging all conservation practice goals
 
-´´´
+```
 conservVOI <- sVOI %>% filter(Aplicacion1 == 'Conservation') %>% 
   dplyr::select(-Aplicacion1.1) %>% 
   group_by(Shortfall, Shortfall_Sub, SF) %>%
@@ -222,7 +217,6 @@ for(i in unique(appVOI$Shortfall)){
   a <- sELICITinv[sELICIT$Shortfall == i,] # Filter values of Elici. by shortfall
   b <- conservVOI[conservVOI$Shortfall == i,] # Filter values of VOI by shortfall
   c <- merge(b, a, by.x='Shortfall', by.y='sELICIT$Shortfall', all.x=TRUE)
-  # Multiplication of IDEA estimate of each group * meanVOI value by Shortfall level 
   d <- apply(c[ , 5:11], 2, function(x) x*c[,'meanVOI'])
   e <- cbind(b,d)
   f <- e %>% pivot_longer(cols = 5:11, names_to = 'Group', 
@@ -259,7 +253,6 @@ for(i in unique(appVOI$Shortfall)){
   a <- sELICITinv[sELICIT$Shortfall == i,] # Filter values of Elici. by shortfall
   b <- climVOI[climVOI$Shortfall == i,] # Filter values of VOI by shortfall
   c <- merge(b, a, by.x='Shortfall', by.y='sELICIT$Shortfall', all.x=TRUE)
-  # Multiplication of IDEA estimate of each group * meanVOI value by Shortfall level 
   d <- apply(c[ , 5:11], 2, function(x) x*c[,'meanVOI'])
   e <- cbind(b,d)
   f <- e %>% pivot_longer(cols = 5:11, names_to = 'Group', 
@@ -285,7 +278,7 @@ head(heatmap)
 
 Note: Heatmap object needs to be remapped per conservation practice by specifying: VOI <- appVOI %>% filter(Aplicacion1.1 == 'NAME OF ACTIVITY)
 
-´´´
+```
   library(ggradar)
 
   df <- heatmap %>%  select(c(Shortfall,Shortfall_Sub, Group, VOI_IDEA)) %>%
