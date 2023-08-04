@@ -4,8 +4,7 @@ SUPPORTING DATASET 1. SPECIES INVENTORIES AND ASSOCIATED INDICATOR DATA For all 
 
 ##### Methods for the visualization of ecological indicator coverage per discipline
 
-We depict the completeness of ecological data mobilization towards centralized public meta-repositories.  
-Venn diagrams of data mobilization to global online repositories were generated from all (or some) subclades for eight biodiversity groups (2 per realm in sensu lato): 
+We depict the completeness of ecological data mobilization towards centralized public meta-repositories. Venn diagrams of data mobilization to global online repositories were generated from all (or some) subclades for eight biodiversity groups (2 per realm in sensu lato): 
 1. VERTEBRATES Seals and birds
 2. INVERTEBRATES see breakdown in supplementary: free-living arthropods, free living non-arthropod invertebrates, and Parasites (arthropod and non-arthropod), 
 3. HIGHER PLANTAE Vascular plants 
