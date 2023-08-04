@@ -23,9 +23,9 @@ See supporting PEARL code for data retrieval in Genbank https://github.com/LuisR
 For bryophytes it was an extension of TRY named BryoForTraits (largely biased towards forest species, but the most complete compendium available). Fungi data was complemented from FungalTraits repository. 
 For other groups we could not find centralized trait repositories and so were all scored to 0. TRY data accession queries were requested via https://www.try-db.org/TryWeb/dp.php
 5.	ABIOTIC TOLERANCE DATA. 'Hutchinsonian' was evaluated with the indicator “sps. with thermal tolerance limits in Globtherm compendium”. However, in this case we updated the compendium with additional entries of 
-Antarctic species with thermal profiles from Antarctic research literature. 
+Antarctic species with thermal profiles from Antarctic research literature. Data compilation was searched with literature retrieval queries at Web of Science https://www.webofscience.com/wos/woscc/basic-search 
 6.	BIOTIC INTERACTION AND NETWORK DATA. 'Eltonian' was evaluated with the binary indicator “sps. with reported interactions listed in GLOBI repository).
-All indicator information per species can be seen in the supporting dataset 1 in the corresponding columns of the same name as a binary character (1= presence, 0=absence).
+All indicator information per species can be seen in the supporting dataset 1 in the corresponding columns of the same name as a binary character (1= presence, 0=absence). See supporting R code for data retrieval in GLOBI
 
 REFERENCES
 
