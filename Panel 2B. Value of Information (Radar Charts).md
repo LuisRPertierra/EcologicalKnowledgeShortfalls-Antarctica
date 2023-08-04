@@ -4,7 +4,9 @@
 
 SUPPORTING DATASET 2. EXPERT ELICITATION ON ANTARCTIC ECOLOGICAL KNOWLEDGE SHORTFALLS & POTENTIAL VALUE OF INFORMATION. All the provided responses (coded in the form of annonymous numerical scores) from the opinions of all the participant experts were stored in a summary table (Supplementary File 2). These materials were generated with the following methodological procedures and used for the below calculations and visualizations.
 
-POTENTIAL VALUE-OF-INFORMATION ELICITATION METHODS The Antarctic expert evaluations inform on the relative perceived knowledge gaps per group. However they do not attribute a value of relevance for practical applications since all knowledge disciplines have the same potential for future interest in the theoretical comprehension of the functioning of the ecosystems. Nonetheless specific practical applications require specific knowledge bits to maximize their applied inference. To evaluate the different value of information for distinct purposes here we used the knowledge of broad experts in conservation and shortfalls theorycrafting. 
+#### Methods to define the potential value-of-information elicitation and generate the applied value of information of Antarctic ecological knowledge discipline for conservation with radar charts 
+
+The Antarctic expert evaluations inform on the relative perceived knowledge gaps per group. However they do not attribute a value of relevance for practical applications since all knowledge disciplines have the same potential for future interest in the theoretical comprehension of the functioning of the ecosystems. Nonetheless specific practical applications require specific knowledge bits to maximize their applied inference. To evaluate the different value of information for distinct purposes here we used the knowledge of broad experts in conservation and shortfalls theorycrafting. 
 
 The experts defined the relevance of the different ecological knowledge disciplines for a set of usages. These were: climate change action, biosecurity management, sustainable resource extraction, strategic area protection and bioprospecting. Recreational management was not included as they are directly benefited by a combination of these aspects. In addition, the value of cultural scientific gains were simbolically assinged to constant intermediate levels across disciplines based in the principle that all science can be theoretically equally relevant in the future. The value of information was also subdivided in 3 categories per discipline in attention to the complexity of the required information for the purpose since not all information has the same complexity and demands for construction as advanced information is nested on previos base knowledge. The description of categories is the following:
 
@@ -64,12 +66,9 @@ The experts defined the relevance of the different ecological knowledge discipli
 
 7.3 advanced	Comprehending the resilience of trophic interaction networks (cascade effects at ecosystem level)
 
-In attention to the implications of these categories five experts responded with their view on the respective potential value of information (see below summary information of the averaged values). 
-Lastly, the results of the attributed knowledge gaps from the Antarctic expert elicitation (all 21 participants from the Expert Elicitation - see section 2A methods) and the potential value of information attributed 
-from general conservation experts were combined. 
+In attention to the implications of these categories five experts responded with their view on the respective potential value of information (see below summary information of the averaged values). This provides a theoretical potential value-of-information of each ecological discipline for specific conservation practice goals (1 to 5, i.e. going from  minimally relevant to very relevant).
 
-The results indicate the current applicable value of information for different usages from deepeing the Antarctic ecological knowledge and severing the gaps. 
-This estimate thus accounts for the severity of the knowledge gaps and their relevance. Main results (figure 2b) are shown in form of a set of radar graphs per biodiversity subgroup (7 categories).
+Lastly, the results of the attributed knowledge gaps from the Antarctic expert elicitation (all 21 participants from the Expert Elicitation - see section 2A methods) and the potential value of information attributed from general conservation experts were combined (with output values now ranking from 1 > non-prioritary by knowledge gap being either filled already, non-essential or both, to 500 > very prioritary to fill). The results indicate the current applicable value of information for different usages from deepeing the Antarctic ecological knowledge and severing the gaps. This estimate thus accounts for the severity of the knowledge gaps and their relevance. Main results (figure 2b) are shown in form of a set of radar graphs per biodiversity subgroup (7 categories).
 
 REFERENCES HERE
 Hortal et al. 2015
