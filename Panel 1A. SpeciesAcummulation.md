@@ -3,6 +3,8 @@
 
 SUPPORTING DATASET 1. SPECIES INVENTORIES AND ASSOCIATED INDICATOR DATA For all anaysis in the work we used a curated checklist of eukaryotic species, available as a supporting data paper: Pertierra et al. 2023 in review in the Biodiversity Data Journal https://digital.csic.es/handle/10261/307449. The list of species comprises about 2000 organisms with taxonomic classification from where all indicator data is compiled and analyzed. 
 
+FILE NAME: S1. IND_DATABASE_COVERAGE.CSV
+
 #### Methods to calculate the Species accumulation curves (SACs)
 
 For the generation of the species accumulation curves we retrieved the first year of description in Antarctica for all the species listed. The estimate was restricted to a temporal range of data between 1850-2022. 
