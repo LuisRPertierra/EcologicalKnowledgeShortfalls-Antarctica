@@ -18,7 +18,7 @@ Hemming et al. 2018
 
 The R code written for the calculations and visualization is the following:
 
-#For all main functional groups
+### Scores for all main functional groups (13 categories)
 
 Load dataframe
 
@@ -83,7 +83,7 @@ ggplot(data1) +
           facet_wrap(vars(FuncGroup), scales = "free_x")
 ```
 
-#By 8 main groups (phylogenetic unification)
+### Scores by 8 main groups (phylogenetic unification)
 
 ```
 data <- read.csv("IDEA_dataframe2.csv", sep=";")
