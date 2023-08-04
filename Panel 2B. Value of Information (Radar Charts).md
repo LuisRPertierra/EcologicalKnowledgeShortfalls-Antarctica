@@ -2,7 +2,9 @@
 # 	FIGURE 2B. VALUE OF INFORMATION ASSESSMENTS 
 ## VALUE-OF-INFORMATION. VOI-Potential and Heatmaps
 
-SUPPORTING DATASET 2. EXPERT ELICITATION ON ANTARCTIC ECOLOGICAL KNOWLEDGE SHORTFALLS & POTENTIAL VALUE OF INFORMATION. All the provided responses (coded in the form of annonymous numerical scores) from the opinions of all the participant experts were stored in a summary table (Supplementary File 2). These materials were generated with the following methodological procedures and used for the below calculations and visualizations.
+SUPPORTING DATASET 3. EXPERT ELICITATION ON THE POTENTIAL VALUE OF INFORMATION. All the provided responses (coded in the form of annonymous numerical scores) from the opinions of all the participant experts were stored in a summary table (Supplementary File 3). These materials were generated with the following methodological procedures and used for the below calculations and visualizations.
+
+File Name: S3. VOI_BY_EXPERT_RESPONSE.CSV
 
 #### Methods to define the potential value-of-information elicitation and generate the applied value of information of Antarctic ecological knowledge discipline for conservation with radar charts 
 
