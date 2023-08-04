@@ -1,6 +1,8 @@
 
 ## FIG 1B SPATIAL COMPLETENESS OF BIODIVERSITY INVENTORIES 
 
+SUPPORTING DATASET 1. SPECIES INVENTORIES AND ASSOCIATED INDICATOR DATA For all anaysis in the work we used a curated checklist of eukaryotic species, available as a supporting data paper: Pertierra et al. 2023 in review in the Biodiversity Data Journal https://digital.csic.es/handle/10261/307449. The list of species comprises about 2000 organisms with taxonomic classification from where all indicator data is compiled and analyzed. This information is found in the supporting dataset 1.
+
 We calculated the spatial completeness of species inventories in the continent using the R package KnowBR.
 All GBIF ocurrence records for any of the biodiversity checklist of species were retrieved from GBIF. This information was combined with extra spatial information from
 an updated version of the spatial occurrence records of Wauchope et al. (2019) listed in the Antarctic Biodiversity Digital Database (doi:10.4225/15/59100ba9157f7) 
