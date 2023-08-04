@@ -12,8 +12,9 @@ Evaluations were organized into four groups of terrestrial, semi-terrestrial and
 
 Main summary results are then summarized in 8 categories (2 per realm in sensu lato)
 
-REFERENCES HERE
-Hemming et al. 2018
+REFERENCES 
+
+Hemming, V, Burgman, MA, Hanea, AM, McBride, MF, Wintle, BC. A practical guide to structured expert elicitation using the IDEA protocol. Methods Ecol Evol. 2018; 9: 169–180. https://doi.org/10.1111/2041-210X.12857
 
 The R code written for the calculations and visualization is the following:
 
