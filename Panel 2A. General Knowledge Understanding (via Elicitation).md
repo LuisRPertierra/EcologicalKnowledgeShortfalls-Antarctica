@@ -1,6 +1,6 @@
 ## 	FIGURE 2A. EXPERT ELICITATIONS OF ECOLOGICAL KNOWLEDGE SHORTFALLS BY BIODIVERSITY GROUP
 
-SUPPORTING DATASET 2. EXPERT ELICITATION ON ANTARCTIC ECOLOGICAL KNOWLEDGE SHORTFALLS & POTENTIAL VALUE OF INFORMATION. All the provided responses (coded in the form of annonymous numerical scores) from the opinions of all the participant experts were stored in a summary table. These materials were generated with the following methodological procedures and used for the below calculations and visualizations.
+SUPPORTING DATASET 2. EXPERT ELICITATION ON ANTARCTIC ECOLOGICAL KNOWLEDGE SHORTFALLS & POTENTIAL VALUE OF INFORMATION. All the provided responses (coded in the form of annonymous numerical scores) from the opinions of all the participant experts were stored in a summary table (Supplementary File 2). These materials were generated with the following methodological procedures and used for the below calculations and visualizations.
 
 ELICITATION PROTOCOL A complementary screening and systematic revision of the state of knowledge under the shortfalls’ framework was performed under a structured IDEA elicitation process (Hemming et al. 2018) 
 paired with a literature narrative synthesis. A diverse group with expertise in different aspects of ecological research were approached to jointly assess the global state of shortfalls 
