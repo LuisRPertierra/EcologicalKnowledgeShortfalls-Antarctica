@@ -4,11 +4,9 @@
 
 The Antarctic expert evaluations inform on the relative perceived knowledge gaps per group. However they do not attribute a value of relevance for practical applications since all knowledge disciplines have the same
 potential for future interest in the theoretical comprehension of the functioning of the ecosystems. Nonetheless specific practical applications require specific knowledge bits to maximize their applied inference.
-To evaluate the different value of information for distinct purposes here we used the knowledge of broad experts in conservation and shortfalls theorycrafting. The experts defined the relevance of the different ecological
-knowledge disciplines for a set of usages. These were: climate change action, biosecurity management, sustainable resource extraction, strategic area protection and bioprospecting. Recreational management was not included as
-they are directly benefited by a combination of these aspects. In addition, the value of cultural scientific gains were simbolically assinged to constant intermediate levels across disciplines based in the principle that
-all science can be theoretically equally relevant in the future. The value of information was also subdivided in 3 categories per discipline in attention to the complexity of the required information for the purpose since
-not all information has the same complexity and demands for construction as advanced information is nested on previos base knowledge. The description of categories is the following:
+To evaluate the different value of information for distinct purposes here we used the knowledge of broad experts in conservation and shortfalls theorycrafting. 
+
+The experts defined the relevance of the different ecological knowledge disciplines for a set of usages. These were: climate change action, biosecurity management, sustainable resource extraction, strategic area protection and bioprospecting. Recreational management was not included as they are directly benefited by a combination of these aspects. In addition, the value of cultural scientific gains were simbolically assinged to constant intermediate levels across disciplines based in the principle that all science can be theoretically equally relevant in the future. The value of information was also subdivided in 3 categories per discipline in attention to the complexity of the required information for the purpose since not all information has the same complexity and demands for construction as advanced information is nested on previos base knowledge. The description of categories is the following:
 
 1.	LINNEAN
 
@@ -17,29 +15,53 @@ not all information has the same complexity and demands for construction as adva
 1.2 intermediate	progress in new species descriptions with inclusion of guess-estimates
 
 1.3 advanced	having holistic repositories with accurate taxonomically-resolved intraspecific variation (subspecies, morphotypes) 
+
 2.	PRESTONIAN
+
 2.1 baseline	Having a description of total abundances
+
 2.2 intermediate	Mapping population trends & endangered status
+
 2.3 advanced	Comprehending population dynamics (including stability and critical size)
+
 3. WALLACEAN
+
 3.1 baseline	Having a description of species occurrence ranges
+
 3.2 intermediate	Mapping dynamic models of species distributions
+
 3.3 advanced	Comprehending biogeographical patterns and processes
+
 4. DARWINIAN
+
 4.1 baseline	Having a baseline description of evolutionary relationships
+
 4.2 intermediate	Mapping the motion of trait evolution
+
 4.3 advanced	Comprehending evolutionary processes (patterns of speciation nurseries, processes of diversification & drivers)
+
 5. RAUNKIAERAN
+
 5.1 baseline	Having a description of representative traits & functions
+
 5.2 intermediate	Mapping the trait space, diversity and plasticity
+
 5.3 advanced	Comprehending the underlying mechanisms shaping trait diversity & plasticity
+
 6. HUTCHINSONIAN
+
 6.1 baseline	Having a general characterization of abiotic tolerance limits
+
 6.2 intermediate	Mapping exact metabolomics (productivity levels) beyond discrete levels
+
 6.3 advanced	Comprehending trade-offs in life strategies (resource management) shaping productivity levels
+
 7. ELTONIAN
+
 7.1 baseline	Having a general description of representative species-to-species interactions
+
 7.2 intermediate	Mapping functional diversity (levels of non-trophic interactions at the community level)
+
 7.3 advanced	Comprehending the resilience of trophic interaction networks (cascade effects at ecosystem level)
 
 In attention to the implications of these categories five experts responded with their view on the respective potential value of information (see below summary information of the averaged values). 
