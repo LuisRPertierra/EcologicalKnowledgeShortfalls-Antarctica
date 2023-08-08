@@ -1,1 +1,39 @@
+ANTARCTIC RESEARCH WITH THERMAL TOLERANCE QUANTIFICATIONS
+
+Vertebrate search query: (&#39;Antarctic*&#39; NOT &#39;subantarc*&#39; NOT &#39;sub-antarc*&#39;) AND (&#39;critical
+thermal maximum&#39; OR &#39;critical thermal minimum&#39; OR &#39;upper thermal tolerance&#39; OR &#39;lower
+thermal tolerance&#39; OR &#39;thermal tolerance breadth&#39; OR &#39;thermal tolerance window&#39; OR &#39;species
+temperature tolerance&#39; OR &#39;thermo-neutral zone&#39; OR &#39;tnz&#39; OR &#39;heat tolerance&#39; OR &#39;cold
+tolerance&#39;) AND (&#39;penguin*&#39; OR &#39;bird*&#39; OR &#39;avian*&#39;) AND (&#39;seal&#39; OR &#39;pinniped*&#39; OR &#39;phocid*&#39;)
+
+Ectoparasites search query: (&#39;Antarctic*&#39; NOT &#39;subantarc*&#39; NOT &#39;sub-antarc*&#39;) AND (&#39;critical
+thermal maximum&#39; OR &#39;critical thermal minimum&#39; OR &#39;CTmax&#39; OR &#39;CTmin&#39; OR &#39;upper thermal
+tolerance&#39; OR &#39;lower thermal tolerance&#39; OR &#39;thermal tolerance breadth&#39; OR &#39;species
+temperature tolerance&#39; OR &#39;heat tolerance&#39; OR &#39;cold tolerance&#39; OR &#39;lethal temperature&#39; OR
+&#39;LT50&#39;) AND (&#39;tick&#39; OR &#39;lice&#39; OR &#39;ectoparasit*&#39;)
+
+Mosses and hepatic search query: (&#39;Antarctic*&#39; NOT &#39;subantarc*&#39; NOT &#39;sub-antarc*&#39;) AND
+(&#39;critical thermal maximum&#39; OR &#39;critical thermal minimum&#39; OR &#39;upper thermal tolerance&#39; OR
+&#39;lower thermal tolerance&#39; OR &#39;lethal temperature&#39; OR &#39;LT50&#39; OR &#39;species temperature tolerance&#39;
+OR &#39;heat tolerance&#39; OR &#39;cold tolerance&#39; OR &#39;frost resistance&#39;) AND (&#39;photosynthe*&#39; OR
+&#39;Chloroph*&#39; AND &#39;temp*&#39;) AND (&#39;bryophyt*&#39; OR &#39;moss*&#39; OR &#39;liverwort*&#39; OR &#39;cryptogam*&#39;) AND
+(&#39;bryophyt*&#39; OR &#39;moss*&#39; OR &#39;liverwort*&#39; OR &#39;cryptogam*&#39;)
+
+Vascular Plant search query: (&#39;Antarctic*&#39; NOT &#39;subantarc*&#39; NOT &#39;sub-antarc*&#39;) AND (&#39;critical thermal
+maximum&#39; OR &#39;critical thermal minimum&#39; OR &#39;upper thermal tolerance&#39; OR &#39;lower thermal
+tolerance&#39; OR &#39;lethal temperature&#39; OR &#39;LT50&#39; OR &#39;species temperature tolerance&#39; OR &#39;heat
+tolerance&#39; OR &#39;cold tolerance&#39; OR &#39;frost resistance&#39;) AND (&#39;vascular&#39; OR &#39;phanerogam*&#39;)
+
+Lichen and fundi search query: (&#39;Antarctic*&#39; NOT &#39;subantarc*&#39; NOT &#39;sub-antarc*&#39;) AND (&#39;critical
+thermal maximum&#39; OR &#39;critical thermal minimum&#39; OR &#39;upper thermal tolerance&#39; OR &#39;lower
+thermal tolerance&#39; OR &#39;lethal temperature&#39; OR &#39;LT50&#39; OR &#39;species temperature tolerance&#39; OR
+&#39;heat tolerance&#39; OR &#39;cold tolerance&#39; OR &#39;frost resistance&#39;) AND (&#39;photosynthe*&#39; OR &#39;Chloroph*&#39;
+AND &#39;temp*&#39;) AND (‘lichen’ OR ‘fungi’ OR ‘*mycota’)
+
+Algae, protist and protozoa search query: (&#39;Antarctic*&#39; NOT &#39;subantarc*&#39; NOT &#39;sub-antarc*&#39;)
+AND (&#39;critical thermal maximum&#39; OR &#39;critical thermal minimum&#39; OR &#39;upper thermal tolerance&#39;
+OR &#39;lower thermal tolerance&#39; OR &#39;lethal temperature&#39; OR &#39;LT50&#39; OR &#39;species temperature
+tolerance&#39; OR &#39;heat tolerance&#39; OR &#39;cold tolerance&#39; OR &#39;frost resistance&#39;) AND (&#39;photosynthe*&#39;
+OR &#39;Chloroph*&#39; AND &#39;temp*&#39;) AND (‘algae’ OR ‘protist*’ OR ‘protozoo*’)
+
 
