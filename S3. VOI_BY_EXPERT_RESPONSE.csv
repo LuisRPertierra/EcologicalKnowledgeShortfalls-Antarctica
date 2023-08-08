@@ -1,0 +1,736 @@
+Expert,Shortfall,Shortfall_Sub,Aplicacion1,Aplicacion1.1,VOI
+Expert1,LINNEAN,baseline,Conservation,Area Protection (Land Use),5
+Expert1,LINNEAN,intermediate,Conservation,Area Protection (Land Use),5
+Expert1,LINNEAN,advanced,Conservation,Area Protection (Land Use),2
+Expert1,PRESTONIAN,baseline,Conservation,Area Protection (Land Use),4
+Expert1,PRESTONIAN,intermediate,Conservation,Area Protection (Land Use),4
+Expert1,PRESTONIAN,advanced,Conservation,Area Protection (Land Use),5
+Expert1,WALLACEAN,baseline,Conservation,Area Protection (Land Use),5
+Expert1,WALLACEAN,intermediate,Conservation,Area Protection (Land Use),5
+Expert1,WALLACEAN,advanced,Conservation,Area Protection (Land Use),3
+Expert1,DARWINIAN,baseline,Conservation,Area Protection (Land Use),4
+Expert1,DARWINIAN,intermediate,Conservation,Area Protection (Land Use),2
+Expert1,DARWINIAN,advanced,Conservation,Area Protection (Land Use),4
+Expert1,RAUNKIAERAN,baseline,Conservation,Area Protection (Land Use),1
+Expert1,RAUNKIAERAN,intermediate,Conservation,Area Protection (Land Use),2
+Expert1,RAUNKIAERAN,advanced,Conservation,Area Protection (Land Use),1
+Expert1,HUTCHINSONIAN,baseline,Conservation,Area Protection (Land Use),3
+Expert1,HUTCHINSONIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert1,HUTCHINSONIAN,advanced,Conservation,Area Protection (Land Use),2
+Expert1,ELTONIAN,baseline,Conservation,Area Protection (Land Use),2
+Expert1,ELTONIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert1,ELTONIAN,advanced,Conservation,Area Protection (Land Use),3
+Expert1,LINNEAN,baseline,Baseline Science,Baseline Science,3
+Expert1,LINNEAN,intermediate,Baseline Science,Baseline Science,3
+Expert1,LINNEAN,advanced,Baseline Science,Baseline Science,3
+Expert1,PRESTONIAN,baseline,Baseline Science,Baseline Science,3
+Expert1,PRESTONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert1,PRESTONIAN,advanced,Baseline Science,Baseline Science,3
+Expert1,WALLACEAN,baseline,Baseline Science,Baseline Science,3
+Expert1,WALLACEAN,intermediate,Baseline Science,Baseline Science,3
+Expert1,WALLACEAN,advanced,Baseline Science,Baseline Science,3
+Expert1,DARWINIAN,baseline,Baseline Science,Baseline Science,3
+Expert1,DARWINIAN,intermediate,Baseline Science,Baseline Science,3
+Expert1,DARWINIAN,advanced,Baseline Science,Baseline Science,3
+Expert1,RAUNKIAERAN,baseline,Baseline Science,Baseline Science,3
+Expert1,RAUNKIAERAN,intermediate,Baseline Science,Baseline Science,3
+Expert1,RAUNKIAERAN,advanced,Baseline Science,Baseline Science,3
+Expert1,HUTCHINSONIAN,baseline,Baseline Science,Baseline Science,3
+Expert1,HUTCHINSONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert1,HUTCHINSONIAN,advanced,Baseline Science,Baseline Science,3
+Expert1,ELTONIAN,baseline,Baseline Science,Baseline Science,3
+Expert1,ELTONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert1,ELTONIAN,advanced,Baseline Science,Baseline Science,3
+Expert1,LINNEAN,baseline,Conservation,Biological Invasions,5
+Expert1,LINNEAN,intermediate,Conservation,Biological Invasions,3
+Expert1,LINNEAN,advanced,Conservation,Biological Invasions,1
+Expert1,PRESTONIAN,baseline,Conservation,Biological Invasions,5
+Expert1,PRESTONIAN,intermediate,Conservation,Biological Invasions,5
+Expert1,PRESTONIAN,advanced,Conservation,Biological Invasions,4
+Expert1,WALLACEAN,baseline,Conservation,Biological Invasions,5
+Expert1,WALLACEAN,intermediate,Conservation,Biological Invasions,5
+Expert1,WALLACEAN,advanced,Conservation,Biological Invasions,3
+Expert1,DARWINIAN,baseline,Conservation,Biological Invasions,1
+Expert1,DARWINIAN,intermediate,Conservation,Biological Invasions,1
+Expert1,DARWINIAN,advanced,Conservation,Biological Invasions,3
+Expert1,RAUNKIAERAN,baseline,Conservation,Biological Invasions,1
+Expert1,RAUNKIAERAN,intermediate,Conservation,Biological Invasions,3
+Expert1,RAUNKIAERAN,advanced,Conservation,Biological Invasions,1
+Expert1,HUTCHINSONIAN,baseline,Conservation,Biological Invasions,4
+Expert1,HUTCHINSONIAN,intermediate,Conservation,Biological Invasions,1
+Expert1,HUTCHINSONIAN,advanced,Conservation,Biological Invasions,1
+Expert1,ELTONIAN,baseline,Conservation,Biological Invasions,4
+Expert1,ELTONIAN,intermediate,Conservation,Biological Invasions,2
+Expert1,ELTONIAN,advanced,Conservation,Biological Invasions,5
+Expert1,LINNEAN,baseline,Bioprospecting,Bioprospecting,5
+Expert1,LINNEAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert1,LINNEAN,advanced,Bioprospecting,Bioprospecting,1
+Expert1,PRESTONIAN,baseline,Bioprospecting,Bioprospecting,2
+Expert1,PRESTONIAN,intermediate,Bioprospecting,Bioprospecting,2
+Expert1,PRESTONIAN,advanced,Bioprospecting,Bioprospecting,2
+Expert1,WALLACEAN,baseline,Bioprospecting,Bioprospecting,3
+Expert1,WALLACEAN,intermediate,Bioprospecting,Bioprospecting,2
+Expert1,WALLACEAN,advanced,Bioprospecting,Bioprospecting,1
+Expert1,DARWINIAN,baseline,Bioprospecting,Bioprospecting,3
+Expert1,DARWINIAN,intermediate,Bioprospecting,Bioprospecting,3
+Expert1,DARWINIAN,advanced,Bioprospecting,Bioprospecting,2
+Expert1,RAUNKIAERAN,baseline,Bioprospecting,Bioprospecting,5
+Expert1,RAUNKIAERAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert1,RAUNKIAERAN,advanced,Bioprospecting,Bioprospecting,5
+Expert1,HUTCHINSONIAN,baseline,Bioprospecting,Bioprospecting,1
+Expert1,HUTCHINSONIAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert1,HUTCHINSONIAN,advanced,Bioprospecting,Bioprospecting,1
+Expert1,ELTONIAN,baseline,Bioprospecting,Bioprospecting,1
+Expert1,ELTONIAN,intermediate,Bioprospecting,Bioprospecting,1
+Expert1,ELTONIAN,advanced,Bioprospecting,Bioprospecting,1
+Expert1,LINNEAN,baseline,Conservation,Climate Change ,4
+Expert1,LINNEAN,intermediate,Conservation,Climate Change ,3
+Expert1,LINNEAN,advanced,Conservation,Climate Change ,1
+Expert1,PRESTONIAN,baseline,Conservation,Climate Change ,4
+Expert1,PRESTONIAN,intermediate,Conservation,Climate Change ,5
+Expert1,PRESTONIAN,advanced,Conservation,Climate Change ,5
+Expert1,WALLACEAN,baseline,Conservation,Climate Change ,5
+Expert1,WALLACEAN,intermediate,Conservation,Climate Change ,4
+Expert1,WALLACEAN,advanced,Conservation,Climate Change ,4
+Expert1,DARWINIAN,baseline,Conservation,Climate Change ,3
+Expert1,DARWINIAN,intermediate,Conservation,Climate Change ,4
+Expert1,DARWINIAN,advanced,Conservation,Climate Change ,2
+Expert1,RAUNKIAERAN,baseline,Conservation,Climate Change ,2
+Expert1,RAUNKIAERAN,intermediate,Conservation,Climate Change ,5
+Expert1,RAUNKIAERAN,advanced,Conservation,Climate Change ,5
+Expert1,HUTCHINSONIAN,baseline,Conservation,Climate Change ,5
+Expert1,HUTCHINSONIAN,intermediate,Conservation,Climate Change ,1
+Expert1,HUTCHINSONIAN,advanced,Conservation,Climate Change ,3
+Expert1,ELTONIAN,baseline,Conservation,Climate Change ,4
+Expert1,ELTONIAN,intermediate,Conservation,Climate Change ,4
+Expert1,ELTONIAN,advanced,Conservation,Climate Change ,4
+Expert1,LINNEAN,baseline,Conservation,Pollution,3
+Expert1,LINNEAN,intermediate,Conservation,Pollution,1
+Expert1,LINNEAN,advanced,Conservation,Pollution,1
+Expert1,PRESTONIAN,baseline,Conservation,Pollution,5
+Expert1,PRESTONIAN,intermediate,Conservation,Pollution,5
+Expert1,PRESTONIAN,advanced,Conservation,Pollution,5
+Expert1,WALLACEAN,baseline,Conservation,Pollution,2
+Expert1,WALLACEAN,intermediate,Conservation,Pollution,2
+Expert1,WALLACEAN,advanced,Conservation,Pollution,2
+Expert1,DARWINIAN,baseline,Conservation,Pollution,2
+Expert1,DARWINIAN,intermediate,Conservation,Pollution,2
+Expert1,DARWINIAN,advanced,Conservation,Pollution,3
+Expert1,RAUNKIAERAN,baseline,Conservation,Pollution,3
+Expert1,RAUNKIAERAN,intermediate,Conservation,Pollution,5
+Expert1,RAUNKIAERAN,advanced,Conservation,Pollution,5
+Expert1,HUTCHINSONIAN,baseline,Conservation,Pollution,3
+Expert1,HUTCHINSONIAN,intermediate,Conservation,Pollution,5
+Expert1,HUTCHINSONIAN,advanced,Conservation,Pollution,4
+Expert1,ELTONIAN,baseline,Conservation,Pollution,3
+Expert1,ELTONIAN,intermediate,Conservation,Pollution,3
+Expert1,ELTONIAN,advanced,Conservation,Pollution,3
+Expert1,LINNEAN,baseline,Conservation,Resource Extraction,2
+Expert1,LINNEAN,intermediate,Conservation,Resource Extraction,2
+Expert1,LINNEAN,advanced,Conservation,Resource Extraction,1
+Expert1,PRESTONIAN,baseline,Conservation,Resource Extraction,5
+Expert1,PRESTONIAN,intermediate,Conservation,Resource Extraction,5
+Expert1,PRESTONIAN,advanced,Conservation,Resource Extraction,5
+Expert1,WALLACEAN,baseline,Conservation,Resource Extraction,4
+Expert1,WALLACEAN,intermediate,Conservation,Resource Extraction,4
+Expert1,WALLACEAN,advanced,Conservation,Resource Extraction,1
+Expert1,DARWINIAN,baseline,Conservation,Resource Extraction,2
+Expert1,DARWINIAN,intermediate,Conservation,Resource Extraction,2
+Expert1,DARWINIAN,advanced,Conservation,Resource Extraction,3
+Expert1,RAUNKIAERAN,baseline,Conservation,Resource Extraction,1
+Expert1,RAUNKIAERAN,intermediate,Conservation,Resource Extraction,1
+Expert1,RAUNKIAERAN,advanced,Conservation,Resource Extraction,1
+Expert1,HUTCHINSONIAN,baseline,Conservation,Resource Extraction,1
+Expert1,HUTCHINSONIAN,intermediate,Conservation,Resource Extraction,1
+Expert1,HUTCHINSONIAN,advanced,Conservation,Resource Extraction,4
+Expert1,ELTONIAN,baseline,Conservation,Resource Extraction,3
+Expert1,ELTONIAN,intermediate,Conservation,Resource Extraction,2
+Expert1,ELTONIAN,advanced,Conservation,Resource Extraction,5
+Expert2,LINNEAN,baseline,Conservation,Area Protection (Land Use),4
+Expert2,LINNEAN,intermediate,Conservation,Area Protection (Land Use),4
+Expert2,LINNEAN,advanced,Conservation,Area Protection (Land Use),2
+Expert2,PRESTONIAN,baseline,Conservation,Area Protection (Land Use),3
+Expert2,PRESTONIAN,intermediate,Conservation,Area Protection (Land Use),5
+Expert2,PRESTONIAN,advanced,Conservation,Area Protection (Land Use),4
+Expert2,WALLACEAN,baseline,Conservation,Area Protection (Land Use),4
+Expert2,WALLACEAN,intermediate,Conservation,Area Protection (Land Use),3
+Expert2,WALLACEAN,advanced,Conservation,Area Protection (Land Use),4
+Expert2,DARWINIAN,baseline,Conservation,Area Protection (Land Use),1
+Expert2,DARWINIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert2,DARWINIAN,advanced,Conservation,Area Protection (Land Use),1
+Expert2,RAUNKIAERAN,baseline,Conservation,Area Protection (Land Use),1
+Expert2,RAUNKIAERAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert2,RAUNKIAERAN,advanced,Conservation,Area Protection (Land Use),1
+Expert2,HUTCHINSONIAN,baseline,Conservation,Area Protection (Land Use),1
+Expert2,HUTCHINSONIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert2,HUTCHINSONIAN,advanced,Conservation,Area Protection (Land Use),1
+Expert2,ELTONIAN,baseline,Conservation,Area Protection (Land Use),1
+Expert2,ELTONIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert2,ELTONIAN,advanced,Conservation,Area Protection (Land Use),1
+Expert2,LINNEAN,baseline,Baseline Science,Baseline Science,3
+Expert2,LINNEAN,intermediate,Baseline Science,Baseline Science,3
+Expert2,LINNEAN,advanced,Baseline Science,Baseline Science,2
+Expert2,PRESTONIAN,baseline,Baseline Science,Baseline Science,2
+Expert2,PRESTONIAN,intermediate,Baseline Science,Baseline Science,2.5
+Expert2,PRESTONIAN,advanced,Baseline Science,Baseline Science,2
+Expert2,WALLACEAN,baseline,Baseline Science,Baseline Science,2
+Expert2,WALLACEAN,intermediate,Baseline Science,Baseline Science,2.5
+Expert2,WALLACEAN,advanced,Baseline Science,Baseline Science,2.5
+Expert2,DARWINIAN,baseline,Baseline Science,Baseline Science,3.5
+Expert2,DARWINIAN,intermediate,Baseline Science,Baseline Science,2
+Expert2,DARWINIAN,advanced,Baseline Science,Baseline Science,2.5
+Expert2,RAUNKIAERAN,baseline,Baseline Science,Baseline Science,2.5
+Expert2,RAUNKIAERAN,intermediate,Baseline Science,Baseline Science,2
+Expert2,RAUNKIAERAN,advanced,Baseline Science,Baseline Science,2.5
+Expert2,HUTCHINSONIAN,baseline,Baseline Science,Baseline Science,3
+Expert2,HUTCHINSONIAN,intermediate,Baseline Science,Baseline Science,1.5
+Expert2,HUTCHINSONIAN,advanced,Baseline Science,Baseline Science,2.5
+Expert2,ELTONIAN,baseline,Baseline Science,Baseline Science,2.5
+Expert2,ELTONIAN,intermediate,Baseline Science,Baseline Science,2
+Expert2,ELTONIAN,advanced,Baseline Science,Baseline Science,2.5
+Expert2,LINNEAN,baseline,Conservation,Biological Invasions,5
+Expert2,LINNEAN,intermediate,Conservation,Biological Invasions,3
+Expert2,LINNEAN,advanced,Conservation,Biological Invasions,3
+Expert2,PRESTONIAN,baseline,Conservation,Biological Invasions,3
+Expert2,PRESTONIAN,intermediate,Conservation,Biological Invasions,5
+Expert2,PRESTONIAN,advanced,Conservation,Biological Invasions,5
+Expert2,WALLACEAN,baseline,Conservation,Biological Invasions,4
+Expert2,WALLACEAN,intermediate,Conservation,Biological Invasions,4
+Expert2,WALLACEAN,advanced,Conservation,Biological Invasions,4
+Expert2,DARWINIAN,baseline,Conservation,Biological Invasions,3
+Expert2,DARWINIAN,intermediate,Conservation,Biological Invasions,2
+Expert2,DARWINIAN,advanced,Conservation,Biological Invasions,1
+Expert2,RAUNKIAERAN,baseline,Conservation,Biological Invasions,2
+Expert2,RAUNKIAERAN,intermediate,Conservation,Biological Invasions,3
+Expert2,RAUNKIAERAN,advanced,Conservation,Biological Invasions,2.5
+Expert2,HUTCHINSONIAN,baseline,Conservation,Biological Invasions,4
+Expert2,HUTCHINSONIAN,intermediate,Conservation,Biological Invasions,2
+Expert2,HUTCHINSONIAN,advanced,Conservation,Biological Invasions,3
+Expert2,ELTONIAN,baseline,Conservation,Biological Invasions,5
+Expert2,ELTONIAN,intermediate,Conservation,Biological Invasions,4
+Expert2,ELTONIAN,advanced,Conservation,Biological Invasions,5
+Expert2,LINNEAN,baseline,Bioprospecting,Bioprospecting,5
+Expert2,LINNEAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert2,LINNEAN,advanced,Bioprospecting,Bioprospecting,3
+Expert2,PRESTONIAN,baseline,Bioprospecting,Bioprospecting,3
+Expert2,PRESTONIAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert2,PRESTONIAN,advanced,Bioprospecting,Bioprospecting,5
+Expert2,WALLACEAN,baseline,Bioprospecting,Bioprospecting,4
+Expert2,WALLACEAN,intermediate,Bioprospecting,Bioprospecting,4
+Expert2,WALLACEAN,advanced,Bioprospecting,Bioprospecting,2
+Expert2,DARWINIAN,baseline,Bioprospecting,Bioprospecting,3
+Expert2,DARWINIAN,intermediate,Bioprospecting,Bioprospecting,3
+Expert2,DARWINIAN,advanced,Bioprospecting,Bioprospecting,2
+Expert2,RAUNKIAERAN,baseline,Bioprospecting,Bioprospecting,4
+Expert2,RAUNKIAERAN,intermediate,Bioprospecting,Bioprospecting,4
+Expert2,RAUNKIAERAN,advanced,Bioprospecting,Bioprospecting,3
+Expert2,HUTCHINSONIAN,baseline,Bioprospecting,Bioprospecting,2
+Expert2,HUTCHINSONIAN,intermediate,Bioprospecting,Bioprospecting,4
+Expert2,HUTCHINSONIAN,advanced,Bioprospecting,Bioprospecting,3
+Expert2,ELTONIAN,baseline,Bioprospecting,Bioprospecting,2
+Expert2,ELTONIAN,intermediate,Bioprospecting,Bioprospecting,4
+Expert2,ELTONIAN,advanced,Bioprospecting,Bioprospecting,3
+Expert2,LINNEAN,baseline,Conservation,Climate Change ,3
+Expert2,LINNEAN,intermediate,Conservation,Climate Change ,4
+Expert2,LINNEAN,advanced,Conservation,Climate Change ,2
+Expert2,PRESTONIAN,baseline,Conservation,Climate Change ,3
+Expert2,PRESTONIAN,intermediate,Conservation,Climate Change ,5
+Expert2,PRESTONIAN,advanced,Conservation,Climate Change ,5
+Expert2,WALLACEAN,baseline,Conservation,Climate Change ,4
+Expert2,WALLACEAN,intermediate,Conservation,Climate Change ,4
+Expert2,WALLACEAN,advanced,Conservation,Climate Change ,2
+Expert2,DARWINIAN,baseline,Conservation,Climate Change ,1
+Expert2,DARWINIAN,intermediate,Conservation,Climate Change ,3
+Expert2,DARWINIAN,advanced,Conservation,Climate Change ,2.5
+Expert2,RAUNKIAERAN,baseline,Conservation,Climate Change ,1
+Expert2,RAUNKIAERAN,intermediate,Conservation,Climate Change ,2
+Expert2,RAUNKIAERAN,advanced,Conservation,Climate Change ,2
+Expert2,HUTCHINSONIAN,baseline,Conservation,Climate Change ,5
+Expert2,HUTCHINSONIAN,intermediate,Conservation,Climate Change ,4
+Expert2,HUTCHINSONIAN,advanced,Conservation,Climate Change ,5
+Expert2,ELTONIAN,baseline,Conservation,Climate Change ,3
+Expert2,ELTONIAN,intermediate,Conservation,Climate Change ,4
+Expert2,ELTONIAN,advanced,Conservation,Climate Change ,3
+Expert2,LINNEAN,baseline,Conservation,Pollution,1
+Expert2,LINNEAN,intermediate,Conservation,Pollution,1
+Expert2,LINNEAN,advanced,Conservation,Pollution,1
+Expert2,PRESTONIAN,baseline,Conservation,Pollution,1
+Expert2,PRESTONIAN,intermediate,Conservation,Pollution,4
+Expert2,PRESTONIAN,advanced,Conservation,Pollution,3
+Expert2,WALLACEAN,baseline,Conservation,Pollution,1
+Expert2,WALLACEAN,intermediate,Conservation,Pollution,1
+Expert2,WALLACEAN,advanced,Conservation,Pollution,1
+Expert2,DARWINIAN,baseline,Conservation,Pollution,1
+Expert2,DARWINIAN,intermediate,Conservation,Pollution,3
+Expert2,DARWINIAN,advanced,Conservation,Pollution,3
+Expert2,RAUNKIAERAN,baseline,Conservation,Pollution,3
+Expert2,RAUNKIAERAN,intermediate,Conservation,Pollution,4
+Expert2,RAUNKIAERAN,advanced,Conservation,Pollution,3
+Expert2,HUTCHINSONIAN,baseline,Conservation,Pollution,5
+Expert2,HUTCHINSONIAN,intermediate,Conservation,Pollution,3
+Expert2,HUTCHINSONIAN,advanced,Conservation,Pollution,4
+Expert2,ELTONIAN,baseline,Conservation,Pollution,1
+Expert2,ELTONIAN,intermediate,Conservation,Pollution,2
+Expert2,ELTONIAN,advanced,Conservation,Pollution,2
+Expert2,LINNEAN,baseline,Conservation,Resource Extraction,4
+Expert2,LINNEAN,intermediate,Conservation,Resource Extraction,2
+Expert2,LINNEAN,advanced,Conservation,Resource Extraction,1
+Expert2,PRESTONIAN,baseline,Conservation,Resource Extraction,3
+Expert2,PRESTONIAN,intermediate,Conservation,Resource Extraction,5
+Expert2,PRESTONIAN,advanced,Conservation,Resource Extraction,4
+Expert2,WALLACEAN,baseline,Conservation,Resource Extraction,4
+Expert2,WALLACEAN,intermediate,Conservation,Resource Extraction,2
+Expert2,WALLACEAN,advanced,Conservation,Resource Extraction,1
+Expert2,DARWINIAN,baseline,Conservation,Resource Extraction,1
+Expert2,DARWINIAN,intermediate,Conservation,Resource Extraction,1
+Expert2,DARWINIAN,advanced,Conservation,Resource Extraction,1
+Expert2,RAUNKIAERAN,baseline,Conservation,Resource Extraction,3
+Expert2,RAUNKIAERAN,intermediate,Conservation,Resource Extraction,4
+Expert2,RAUNKIAERAN,advanced,Conservation,Resource Extraction,4
+Expert2,HUTCHINSONIAN,baseline,Conservation,Resource Extraction,2
+Expert2,HUTCHINSONIAN,intermediate,Conservation,Resource Extraction,1
+Expert2,HUTCHINSONIAN,advanced,Conservation,Resource Extraction,5
+Expert2,ELTONIAN,baseline,Conservation,Resource Extraction,3
+Expert2,ELTONIAN,intermediate,Conservation,Resource Extraction,4
+Expert2,ELTONIAN,advanced,Conservation,Resource Extraction,5
+Expert3,LINNEAN,baseline,Conservation,Area Protection (Land Use),4
+Expert3,LINNEAN,intermediate,Conservation,Area Protection (Land Use),3
+Expert3,LINNEAN,advanced,Conservation,Area Protection (Land Use),2
+Expert3,PRESTONIAN,baseline,Conservation,Area Protection (Land Use),3
+Expert3,PRESTONIAN,intermediate,Conservation,Area Protection (Land Use),5
+Expert3,PRESTONIAN,advanced,Conservation,Area Protection (Land Use),3
+Expert3,WALLACEAN,baseline,Conservation,Area Protection (Land Use),4
+Expert3,WALLACEAN,intermediate,Conservation,Area Protection (Land Use),2
+Expert3,WALLACEAN,advanced,Conservation,Area Protection (Land Use),3
+Expert3,DARWINIAN,baseline,Conservation,Area Protection (Land Use),2
+Expert3,DARWINIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert3,DARWINIAN,advanced,Conservation,Area Protection (Land Use),1
+Expert3,RAUNKIAERAN,baseline,Conservation,Area Protection (Land Use),1
+Expert3,RAUNKIAERAN,intermediate,Conservation,Area Protection (Land Use),2
+Expert3,RAUNKIAERAN,advanced,Conservation,Area Protection (Land Use),1
+Expert3,HUTCHINSONIAN,baseline,Conservation,Area Protection (Land Use),1
+Expert3,HUTCHINSONIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert3,HUTCHINSONIAN,advanced,Conservation,Area Protection (Land Use),1
+Expert3,ELTONIAN,baseline,Conservation,Area Protection (Land Use),2
+Expert3,ELTONIAN,intermediate,Conservation,Area Protection (Land Use),2
+Expert3,ELTONIAN,advanced,Conservation,Area Protection (Land Use),1
+Expert3,LINNEAN,baseline,Baseline Science,Baseline Science,5
+Expert3,LINNEAN,intermediate,Baseline Science,Baseline Science,5
+Expert3,LINNEAN,advanced,Baseline Science,Baseline Science,5
+Expert3,PRESTONIAN,baseline,Baseline Science,Baseline Science,5
+Expert3,PRESTONIAN,intermediate,Baseline Science,Baseline Science,5
+Expert3,PRESTONIAN,advanced,Baseline Science,Baseline Science,5
+Expert3,WALLACEAN,baseline,Baseline Science,Baseline Science,5
+Expert3,WALLACEAN,intermediate,Baseline Science,Baseline Science,5
+Expert3,WALLACEAN,advanced,Baseline Science,Baseline Science,5
+Expert3,DARWINIAN,baseline,Baseline Science,Baseline Science,5
+Expert3,DARWINIAN,intermediate,Baseline Science,Baseline Science,5
+Expert3,DARWINIAN,advanced,Baseline Science,Baseline Science,5
+Expert3,RAUNKIAERAN,baseline,Baseline Science,Baseline Science,5
+Expert3,RAUNKIAERAN,intermediate,Baseline Science,Baseline Science,5
+Expert3,RAUNKIAERAN,advanced,Baseline Science,Baseline Science,5
+Expert3,HUTCHINSONIAN,baseline,Baseline Science,Baseline Science,5
+Expert3,HUTCHINSONIAN,intermediate,Baseline Science,Baseline Science,5
+Expert3,HUTCHINSONIAN,advanced,Baseline Science,Baseline Science,5
+Expert3,ELTONIAN,baseline,Baseline Science,Baseline Science,5
+Expert3,ELTONIAN,intermediate,Baseline Science,Baseline Science,5
+Expert3,ELTONIAN,advanced,Baseline Science,Baseline Science,5
+Expert3,LINNEAN,baseline,Conservation,Biological Invasions,2
+Expert3,LINNEAN,intermediate,Conservation,Biological Invasions,2
+Expert3,LINNEAN,advanced,Conservation,Biological Invasions,1
+Expert3,PRESTONIAN,baseline,Conservation,Biological Invasions,2
+Expert3,PRESTONIAN,intermediate,Conservation,Biological Invasions,5
+Expert3,PRESTONIAN,advanced,Conservation,Biological Invasions,5
+Expert3,WALLACEAN,baseline,Conservation,Biological Invasions,5
+Expert3,WALLACEAN,intermediate,Conservation,Biological Invasions,3
+Expert3,WALLACEAN,advanced,Conservation,Biological Invasions,2
+Expert3,DARWINIAN,baseline,Conservation,Biological Invasions,2
+Expert3,DARWINIAN,intermediate,Conservation,Biological Invasions,2
+Expert3,DARWINIAN,advanced,Conservation,Biological Invasions,1
+Expert3,RAUNKIAERAN,baseline,Conservation,Biological Invasions,3
+Expert3,RAUNKIAERAN,intermediate,Conservation,Biological Invasions,3
+Expert3,RAUNKIAERAN,advanced,Conservation,Biological Invasions,2
+Expert3,HUTCHINSONIAN,baseline,Conservation,Biological Invasions,5
+Expert3,HUTCHINSONIAN,intermediate,Conservation,Biological Invasions,2
+Expert3,HUTCHINSONIAN,advanced,Conservation,Biological Invasions,3
+Expert3,ELTONIAN,baseline,Conservation,Biological Invasions,1
+Expert3,ELTONIAN,intermediate,Conservation,Biological Invasions,3
+Expert3,ELTONIAN,advanced,Conservation,Biological Invasions,3
+Expert3,LINNEAN,baseline,Bioprospecting,Bioprospecting,5
+Expert3,LINNEAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert3,LINNEAN,advanced,Bioprospecting,Bioprospecting,3
+Expert3,PRESTONIAN,baseline,Bioprospecting,Bioprospecting,3
+Expert3,PRESTONIAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert3,PRESTONIAN,advanced,Bioprospecting,Bioprospecting,5
+Expert3,WALLACEAN,baseline,Bioprospecting,Bioprospecting,4
+Expert3,WALLACEAN,intermediate,Bioprospecting,Bioprospecting,4
+Expert3,WALLACEAN,advanced,Bioprospecting,Bioprospecting,2
+Expert3,DARWINIAN,baseline,Bioprospecting,Bioprospecting,3
+Expert3,DARWINIAN,intermediate,Bioprospecting,Bioprospecting,3
+Expert3,DARWINIAN,advanced,Bioprospecting,Bioprospecting,2
+Expert3,RAUNKIAERAN,baseline,Bioprospecting,Bioprospecting,4
+Expert3,RAUNKIAERAN,intermediate,Bioprospecting,Bioprospecting,4
+Expert3,RAUNKIAERAN,advanced,Bioprospecting,Bioprospecting,3
+Expert3,HUTCHINSONIAN,baseline,Bioprospecting,Bioprospecting,2
+Expert3,HUTCHINSONIAN,intermediate,Bioprospecting,Bioprospecting,4
+Expert3,HUTCHINSONIAN,advanced,Bioprospecting,Bioprospecting,3
+Expert3,ELTONIAN,baseline,Bioprospecting,Bioprospecting,2
+Expert3,ELTONIAN,intermediate,Bioprospecting,Bioprospecting,4
+Expert3,ELTONIAN,advanced,Bioprospecting,Bioprospecting,3
+Expert3,LINNEAN,baseline,Conservation,Climate Change ,2
+Expert3,LINNEAN,intermediate,Conservation,Climate Change ,2
+Expert3,LINNEAN,advanced,Conservation,Climate Change ,1
+Expert3,PRESTONIAN,baseline,Conservation,Climate Change ,3
+Expert3,PRESTONIAN,intermediate,Conservation,Climate Change ,5
+Expert3,PRESTONIAN,advanced,Conservation,Climate Change ,5
+Expert3,WALLACEAN,baseline,Conservation,Climate Change ,5
+Expert3,WALLACEAN,intermediate,Conservation,Climate Change ,5
+Expert3,WALLACEAN,advanced,Conservation,Climate Change ,1
+Expert3,DARWINIAN,baseline,Conservation,Climate Change ,1
+Expert3,DARWINIAN,intermediate,Conservation,Climate Change ,1
+Expert3,DARWINIAN,advanced,Conservation,Climate Change ,1
+Expert3,RAUNKIAERAN,baseline,Conservation,Climate Change ,2
+Expert3,RAUNKIAERAN,intermediate,Conservation,Climate Change ,2
+Expert3,RAUNKIAERAN,advanced,Conservation,Climate Change ,2
+Expert3,HUTCHINSONIAN,baseline,Conservation,Climate Change ,5
+Expert3,HUTCHINSONIAN,intermediate,Conservation,Climate Change ,2
+Expert3,HUTCHINSONIAN,advanced,Conservation,Climate Change ,3
+Expert3,ELTONIAN,baseline,Conservation,Climate Change ,2
+Expert3,ELTONIAN,intermediate,Conservation,Climate Change ,5
+Expert3,ELTONIAN,advanced,Conservation,Climate Change ,2
+Expert3,LINNEAN,baseline,Conservation,Pollution,1
+Expert3,LINNEAN,intermediate,Conservation,Pollution,1
+Expert3,LINNEAN,advanced,Conservation,Pollution,1
+Expert3,PRESTONIAN,baseline,Conservation,Pollution,1
+Expert3,PRESTONIAN,intermediate,Conservation,Pollution,3
+Expert3,PRESTONIAN,advanced,Conservation,Pollution,3
+Expert3,WALLACEAN,baseline,Conservation,Pollution,1
+Expert3,WALLACEAN,intermediate,Conservation,Pollution,2
+Expert3,WALLACEAN,advanced,Conservation,Pollution,1
+Expert3,DARWINIAN,baseline,Conservation,Pollution,1
+Expert3,DARWINIAN,intermediate,Conservation,Pollution,1
+Expert3,DARWINIAN,advanced,Conservation,Pollution,1
+Expert3,RAUNKIAERAN,baseline,Conservation,Pollution,1
+Expert3,RAUNKIAERAN,intermediate,Conservation,Pollution,1
+Expert3,RAUNKIAERAN,advanced,Conservation,Pollution,1
+Expert3,HUTCHINSONIAN,baseline,Conservation,Pollution,5
+Expert3,HUTCHINSONIAN,intermediate,Conservation,Pollution,5
+Expert3,HUTCHINSONIAN,advanced,Conservation,Pollution,3
+Expert3,ELTONIAN,baseline,Conservation,Pollution,1
+Expert3,ELTONIAN,intermediate,Conservation,Pollution,1
+Expert3,ELTONIAN,advanced,Conservation,Pollution,1
+Expert3,LINNEAN,baseline,Conservation,Resource Extraction,2
+Expert3,LINNEAN,intermediate,Conservation,Resource Extraction,2
+Expert3,LINNEAN,advanced,Conservation,Resource Extraction,1
+Expert3,PRESTONIAN,baseline,Conservation,Resource Extraction,3
+Expert3,PRESTONIAN,intermediate,Conservation,Resource Extraction,5
+Expert3,PRESTONIAN,advanced,Conservation,Resource Extraction,5
+Expert3,WALLACEAN,baseline,Conservation,Resource Extraction,3
+Expert3,WALLACEAN,intermediate,Conservation,Resource Extraction,1
+Expert3,WALLACEAN,advanced,Conservation,Resource Extraction,1
+Expert3,DARWINIAN,baseline,Conservation,Resource Extraction,1
+Expert3,DARWINIAN,intermediate,Conservation,Resource Extraction,1
+Expert3,DARWINIAN,advanced,Conservation,Resource Extraction,1
+Expert3,RAUNKIAERAN,baseline,Conservation,Resource Extraction,1
+Expert3,RAUNKIAERAN,intermediate,Conservation,Resource Extraction,1
+Expert3,RAUNKIAERAN,advanced,Conservation,Resource Extraction,1
+Expert3,HUTCHINSONIAN,baseline,Conservation,Resource Extraction,3
+Expert3,HUTCHINSONIAN,intermediate,Conservation,Resource Extraction,1
+Expert3,HUTCHINSONIAN,advanced,Conservation,Resource Extraction,4
+Expert3,ELTONIAN,baseline,Conservation,Resource Extraction,2
+Expert3,ELTONIAN,intermediate,Conservation,Resource Extraction,2
+Expert3,ELTONIAN,advanced,Conservation,Resource Extraction,2
+Expert4,LINNEAN,baseline,Conservation,Area Protection (Land Use),5
+Expert4,LINNEAN,intermediate,Conservation,Area Protection (Land Use),4
+Expert4,LINNEAN,advanced,Conservation,Area Protection (Land Use),3
+Expert4,PRESTONIAN,baseline,Conservation,Area Protection (Land Use),3
+Expert4,PRESTONIAN,intermediate,Conservation,Area Protection (Land Use),5
+Expert4,PRESTONIAN,advanced,Conservation,Area Protection (Land Use),4
+Expert4,WALLACEAN,baseline,Conservation,Area Protection (Land Use),5
+Expert4,WALLACEAN,intermediate,Conservation,Area Protection (Land Use),4
+Expert4,WALLACEAN,advanced,Conservation,Area Protection (Land Use),2
+Expert4,DARWINIAN,baseline,Conservation,Area Protection (Land Use),1
+Expert4,DARWINIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert4,DARWINIAN,advanced,Conservation,Area Protection (Land Use),5
+Expert4,RAUNKIAERAN,baseline,Conservation,Area Protection (Land Use),1
+Expert4,RAUNKIAERAN,intermediate,Conservation,Area Protection (Land Use),3
+Expert4,RAUNKIAERAN,advanced,Conservation,Area Protection (Land Use),1
+Expert4,HUTCHINSONIAN,baseline,Conservation,Area Protection (Land Use),4
+Expert4,HUTCHINSONIAN,intermediate,Conservation,Area Protection (Land Use),1
+Expert4,HUTCHINSONIAN,advanced,Conservation,Area Protection (Land Use),1
+Expert4,ELTONIAN,baseline,Conservation,Area Protection (Land Use),2
+Expert4,ELTONIAN,intermediate,Conservation,Area Protection (Land Use),2
+Expert4,ELTONIAN,advanced,Conservation,Area Protection (Land Use),3
+Expert4,LINNEAN,baseline,Baseline Science,Baseline Science,3
+Expert4,LINNEAN,intermediate,Baseline Science,Baseline Science,3
+Expert4,LINNEAN,advanced,Baseline Science,Baseline Science,3
+Expert4,PRESTONIAN,baseline,Baseline Science,Baseline Science,3
+Expert4,PRESTONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert4,PRESTONIAN,advanced,Baseline Science,Baseline Science,3
+Expert4,WALLACEAN,baseline,Baseline Science,Baseline Science,3
+Expert4,WALLACEAN,intermediate,Baseline Science,Baseline Science,3
+Expert4,WALLACEAN,advanced,Baseline Science,Baseline Science,3
+Expert4,DARWINIAN,baseline,Baseline Science,Baseline Science,3
+Expert4,DARWINIAN,intermediate,Baseline Science,Baseline Science,3
+Expert4,DARWINIAN,advanced,Baseline Science,Baseline Science,3
+Expert4,RAUNKIAERAN,baseline,Baseline Science,Baseline Science,3
+Expert4,RAUNKIAERAN,intermediate,Baseline Science,Baseline Science,3
+Expert4,RAUNKIAERAN,advanced,Baseline Science,Baseline Science,3
+Expert4,HUTCHINSONIAN,baseline,Baseline Science,Baseline Science,3
+Expert4,HUTCHINSONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert4,HUTCHINSONIAN,advanced,Baseline Science,Baseline Science,3
+Expert4,ELTONIAN,baseline,Baseline Science,Baseline Science,3
+Expert4,ELTONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert4,ELTONIAN,advanced,Baseline Science,Baseline Science,3
+Expert4,LINNEAN,baseline,Conservation,Biological Invasions,5
+Expert4,LINNEAN,intermediate,Conservation,Biological Invasions,1
+Expert4,LINNEAN,advanced,Conservation,Biological Invasions,1
+Expert4,PRESTONIAN,baseline,Conservation,Biological Invasions,2
+Expert4,PRESTONIAN,intermediate,Conservation,Biological Invasions,2
+Expert4,PRESTONIAN,advanced,Conservation,Biological Invasions,3
+Expert4,WALLACEAN,baseline,Conservation,Biological Invasions,2
+Expert4,WALLACEAN,intermediate,Conservation,Biological Invasions,4
+Expert4,WALLACEAN,advanced,Conservation,Biological Invasions,2
+Expert4,DARWINIAN,baseline,Conservation,Biological Invasions,1
+Expert4,DARWINIAN,intermediate,Conservation,Biological Invasions,1
+Expert4,DARWINIAN,advanced,Conservation,Biological Invasions,2
+Expert4,RAUNKIAERAN,baseline,Conservation,Biological Invasions,2
+Expert4,RAUNKIAERAN,intermediate,Conservation,Biological Invasions,3
+Expert4,RAUNKIAERAN,advanced,Conservation,Biological Invasions,2
+Expert4,HUTCHINSONIAN,baseline,Conservation,Biological Invasions,4
+Expert4,HUTCHINSONIAN,intermediate,Conservation,Biological Invasions,1
+Expert4,HUTCHINSONIAN,advanced,Conservation,Biological Invasions,2
+Expert4,ELTONIAN,baseline,Conservation,Biological Invasions,5
+Expert4,ELTONIAN,intermediate,Conservation,Biological Invasions,4
+Expert4,ELTONIAN,advanced,Conservation,Biological Invasions,5
+Expert4,LINNEAN,baseline,Bioprospecting,Bioprospecting,4
+Expert4,LINNEAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert4,LINNEAN,advanced,Bioprospecting,Bioprospecting,4
+Expert4,PRESTONIAN,baseline,Bioprospecting,Bioprospecting,1
+Expert4,PRESTONIAN,intermediate,Bioprospecting,Bioprospecting,1
+Expert4,PRESTONIAN,advanced,Bioprospecting,Bioprospecting,1
+Expert4,WALLACEAN,baseline,Bioprospecting,Bioprospecting,1
+Expert4,WALLACEAN,intermediate,Bioprospecting,Bioprospecting,1
+Expert4,WALLACEAN,advanced,Bioprospecting,Bioprospecting,1
+Expert4,DARWINIAN,baseline,Bioprospecting,Bioprospecting,2
+Expert4,DARWINIAN,intermediate,Bioprospecting,Bioprospecting,1
+Expert4,DARWINIAN,advanced,Bioprospecting,Bioprospecting,2
+Expert4,RAUNKIAERAN,baseline,Bioprospecting,Bioprospecting,5
+Expert4,RAUNKIAERAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert4,RAUNKIAERAN,advanced,Bioprospecting,Bioprospecting,4
+Expert4,HUTCHINSONIAN,baseline,Bioprospecting,Bioprospecting,4
+Expert4,HUTCHINSONIAN,intermediate,Bioprospecting,Bioprospecting,5
+Expert4,HUTCHINSONIAN,advanced,Bioprospecting,Bioprospecting,1
+Expert4,ELTONIAN,baseline,Bioprospecting,Bioprospecting,1
+Expert4,ELTONIAN,intermediate,Bioprospecting,Bioprospecting,1
+Expert4,ELTONIAN,advanced,Bioprospecting,Bioprospecting,1
+Expert4,LINNEAN,baseline,Conservation,Climate Change ,3
+Expert4,LINNEAN,intermediate,Conservation,Climate Change ,2
+Expert4,LINNEAN,advanced,Conservation,Climate Change ,1
+Expert4,PRESTONIAN,baseline,Conservation,Climate Change ,3
+Expert4,PRESTONIAN,intermediate,Conservation,Climate Change ,5
+Expert4,PRESTONIAN,advanced,Conservation,Climate Change ,1
+Expert4,WALLACEAN,baseline,Conservation,Climate Change ,4
+Expert4,WALLACEAN,intermediate,Conservation,Climate Change ,5
+Expert4,WALLACEAN,advanced,Conservation,Climate Change ,4
+Expert4,DARWINIAN,baseline,Conservation,Climate Change ,1
+Expert4,DARWINIAN,intermediate,Conservation,Climate Change ,3
+Expert4,DARWINIAN,advanced,Conservation,Climate Change ,2
+Expert4,RAUNKIAERAN,baseline,Conservation,Climate Change ,1
+Expert4,RAUNKIAERAN,intermediate,Conservation,Climate Change ,5
+Expert4,RAUNKIAERAN,advanced,Conservation,Climate Change ,3
+Expert4,HUTCHINSONIAN,baseline,Conservation,Climate Change ,5
+Expert4,HUTCHINSONIAN,intermediate,Conservation,Climate Change ,4
+Expert4,HUTCHINSONIAN,advanced,Conservation,Climate Change ,3
+Expert4,ELTONIAN,baseline,Conservation,Climate Change ,3
+Expert4,ELTONIAN,intermediate,Conservation,Climate Change ,1
+Expert4,ELTONIAN,advanced,Conservation,Climate Change ,3
+Expert4,LINNEAN,baseline,Conservation,Pollution,1
+Expert4,LINNEAN,intermediate,Conservation,Pollution,1
+Expert4,LINNEAN,advanced,Conservation,Pollution,1
+Expert4,PRESTONIAN,baseline,Conservation,Pollution,1
+Expert4,PRESTONIAN,intermediate,Conservation,Pollution,3
+Expert4,PRESTONIAN,advanced,Conservation,Pollution,1
+Expert4,WALLACEAN,baseline,Conservation,Pollution,1
+Expert4,WALLACEAN,intermediate,Conservation,Pollution,1
+Expert4,WALLACEAN,advanced,Conservation,Pollution,1
+Expert4,DARWINIAN,baseline,Conservation,Pollution,1
+Expert4,DARWINIAN,intermediate,Conservation,Pollution,1
+Expert4,DARWINIAN,advanced,Conservation,Pollution,1
+Expert4,RAUNKIAERAN,baseline,Conservation,Pollution,3
+Expert4,RAUNKIAERAN,intermediate,Conservation,Pollution,3
+Expert4,RAUNKIAERAN,advanced,Conservation,Pollution,1
+Expert4,HUTCHINSONIAN,baseline,Conservation,Pollution,5
+Expert4,HUTCHINSONIAN,intermediate,Conservation,Pollution,4
+Expert4,HUTCHINSONIAN,advanced,Conservation,Pollution,2
+Expert4,ELTONIAN,baseline,Conservation,Pollution,2
+Expert4,ELTONIAN,intermediate,Conservation,Pollution,1
+Expert4,ELTONIAN,advanced,Conservation,Pollution,1
+Expert4,LINNEAN,baseline,Conservation,Resource Extraction,1
+Expert4,LINNEAN,intermediate,Conservation,Resource Extraction,3
+Expert4,LINNEAN,advanced,Conservation,Resource Extraction,2
+Expert4,PRESTONIAN,baseline,Conservation,Resource Extraction,5
+Expert4,PRESTONIAN,intermediate,Conservation,Resource Extraction,5
+Expert4,PRESTONIAN,advanced,Conservation,Resource Extraction,5
+Expert4,WALLACEAN,baseline,Conservation,Resource Extraction,5
+Expert4,WALLACEAN,intermediate,Conservation,Resource Extraction,5
+Expert4,WALLACEAN,advanced,Conservation,Resource Extraction,2
+Expert4,DARWINIAN,baseline,Conservation,Resource Extraction,1
+Expert4,DARWINIAN,intermediate,Conservation,Resource Extraction,1
+Expert4,DARWINIAN,advanced,Conservation,Resource Extraction,4
+Expert4,RAUNKIAERAN,baseline,Conservation,Resource Extraction,1
+Expert4,RAUNKIAERAN,intermediate,Conservation,Resource Extraction,2
+Expert4,RAUNKIAERAN,advanced,Conservation,Resource Extraction,1
+Expert4,HUTCHINSONIAN,baseline,Conservation,Resource Extraction,2
+Expert4,HUTCHINSONIAN,intermediate,Conservation,Resource Extraction,5
+Expert4,HUTCHINSONIAN,advanced,Conservation,Resource Extraction,2
+Expert4,ELTONIAN,baseline,Conservation,Resource Extraction,5
+Expert4,ELTONIAN,intermediate,Conservation,Resource Extraction,4
+Expert4,ELTONIAN,advanced,Conservation,Resource Extraction,5
+Expert5,LINNEAN,baseline,Conservation,Area Protection (Land Use),5
+Expert5,LINNEAN,intermediate,Conservation,Area Protection (Land Use),4
+Expert5,LINNEAN,advanced,Conservation,Area Protection (Land Use),2
+Expert5,PRESTONIAN,baseline,Conservation,Area Protection (Land Use),4.5
+Expert5,PRESTONIAN,intermediate,Conservation,Area Protection (Land Use),4.5
+Expert5,PRESTONIAN,advanced,Conservation,Area Protection (Land Use),3.5
+Expert5,WALLACEAN,baseline,Conservation,Area Protection (Land Use),5
+Expert5,WALLACEAN,intermediate,Conservation,Area Protection (Land Use),4.5
+Expert5,WALLACEAN,advanced,Conservation,Area Protection (Land Use),4
+Expert5,DARWINIAN,baseline,Conservation,Area Protection (Land Use),4
+Expert5,DARWINIAN,intermediate,Conservation,Area Protection (Land Use),3
+Expert5,DARWINIAN,advanced,Conservation,Area Protection (Land Use),4
+Expert5,RAUNKIAERAN,baseline,Conservation,Area Protection (Land Use),3
+Expert5,RAUNKIAERAN,intermediate,Conservation,Area Protection (Land Use),3
+Expert5,RAUNKIAERAN,advanced,Conservation,Area Protection (Land Use),2
+Expert5,HUTCHINSONIAN,baseline,Conservation,Area Protection (Land Use),3.5
+Expert5,HUTCHINSONIAN,intermediate,Conservation,Area Protection (Land Use),2
+Expert5,HUTCHINSONIAN,advanced,Conservation,Area Protection (Land Use),2
+Expert5,ELTONIAN,baseline,Conservation,Area Protection (Land Use),4
+Expert5,ELTONIAN,intermediate,Conservation,Area Protection (Land Use),4
+Expert5,ELTONIAN,advanced,Conservation,Area Protection (Land Use),4
+Expert5,LINNEAN,baseline,Baseline Science,Baseline Science,3
+Expert5,LINNEAN,intermediate,Baseline Science,Baseline Science,3
+Expert5,LINNEAN,advanced,Baseline Science,Baseline Science,3
+Expert5,PRESTONIAN,baseline,Baseline Science,Baseline Science,3
+Expert5,PRESTONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert5,PRESTONIAN,advanced,Baseline Science,Baseline Science,3
+Expert5,WALLACEAN,baseline,Baseline Science,Baseline Science,3
+Expert5,WALLACEAN,intermediate,Baseline Science,Baseline Science,3
+Expert5,WALLACEAN,advanced,Baseline Science,Baseline Science,3
+Expert5,DARWINIAN,baseline,Baseline Science,Baseline Science,3
+Expert5,DARWINIAN,intermediate,Baseline Science,Baseline Science,3
+Expert5,DARWINIAN,advanced,Baseline Science,Baseline Science,3
+Expert5,RAUNKIAERAN,baseline,Baseline Science,Baseline Science,3
+Expert5,RAUNKIAERAN,intermediate,Baseline Science,Baseline Science,3
+Expert5,RAUNKIAERAN,advanced,Baseline Science,Baseline Science,3
+Expert5,HUTCHINSONIAN,baseline,Baseline Science,Baseline Science,3
+Expert5,HUTCHINSONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert5,HUTCHINSONIAN,advanced,Baseline Science,Baseline Science,3
+Expert5,ELTONIAN,baseline,Baseline Science,Baseline Science,3
+Expert5,ELTONIAN,intermediate,Baseline Science,Baseline Science,3
+Expert5,ELTONIAN,advanced,Baseline Science,Baseline Science,3
+Expert5,LINNEAN,baseline,Conservation,Biological Invasions,4.5
+Expert5,LINNEAN,intermediate,Conservation,Biological Invasions,3.5
+Expert5,LINNEAN,advanced,Conservation,Biological Invasions,1
+Expert5,PRESTONIAN,baseline,Conservation,Biological Invasions,4
+Expert5,PRESTONIAN,intermediate,Conservation,Biological Invasions,4.5
+Expert5,PRESTONIAN,advanced,Conservation,Biological Invasions,4
+Expert5,WALLACEAN,baseline,Conservation,Biological Invasions,3.5
+Expert5,WALLACEAN,intermediate,Conservation,Biological Invasions,4.5
+Expert5,WALLACEAN,advanced,Conservation,Biological Invasions,3.5
+Expert5,DARWINIAN,baseline,Conservation,Biological Invasions,2.5
+Expert5,DARWINIAN,intermediate,Conservation,Biological Invasions,2
+Expert5,DARWINIAN,advanced,Conservation,Biological Invasions,2
+Expert5,RAUNKIAERAN,baseline,Conservation,Biological Invasions,2
+Expert5,RAUNKIAERAN,intermediate,Conservation,Biological Invasions,2.5
+Expert5,RAUNKIAERAN,advanced,Conservation,Biological Invasions,2.5
+Expert5,HUTCHINSONIAN,baseline,Conservation,Biological Invasions,2
+Expert5,HUTCHINSONIAN,intermediate,Conservation,Biological Invasions,2
+Expert5,HUTCHINSONIAN,advanced,Conservation,Biological Invasions,2
+Expert5,ELTONIAN,baseline,Conservation,Biological Invasions,4
+Expert5,ELTONIAN,intermediate,Conservation,Biological Invasions,4.5
+Expert5,ELTONIAN,advanced,Conservation,Biological Invasions,4
+Expert5,LINNEAN,baseline,Bioprospecting,Bioprospecting,3
+Expert5,LINNEAN,intermediate,Bioprospecting,Bioprospecting,3.5
+Expert5,LINNEAN,advanced,Bioprospecting,Bioprospecting,3
+Expert5,PRESTONIAN,baseline,Bioprospecting,Bioprospecting,2.5
+Expert5,PRESTONIAN,intermediate,Bioprospecting,Bioprospecting,2
+Expert5,PRESTONIAN,advanced,Bioprospecting,Bioprospecting,1.5
+Expert5,WALLACEAN,baseline,Bioprospecting,Bioprospecting,2.5
+Expert5,WALLACEAN,intermediate,Bioprospecting,Bioprospecting,2
+Expert5,WALLACEAN,advanced,Bioprospecting,Bioprospecting,1.5
+Expert5,DARWINIAN,baseline,Bioprospecting,Bioprospecting,2
+Expert5,DARWINIAN,intermediate,Bioprospecting,Bioprospecting,2.5
+Expert5,DARWINIAN,advanced,Bioprospecting,Bioprospecting,1.5
+Expert5,RAUNKIAERAN,baseline,Bioprospecting,Bioprospecting,3
+Expert5,RAUNKIAERAN,intermediate,Bioprospecting,Bioprospecting,3
+Expert5,RAUNKIAERAN,advanced,Bioprospecting,Bioprospecting,2
+Expert5,HUTCHINSONIAN,baseline,Bioprospecting,Bioprospecting,2
+Expert5,HUTCHINSONIAN,intermediate,Bioprospecting,Bioprospecting,3.5
+Expert5,HUTCHINSONIAN,advanced,Bioprospecting,Bioprospecting,1.5
+Expert5,ELTONIAN,baseline,Bioprospecting,Bioprospecting,1.5
+Expert5,ELTONIAN,intermediate,Bioprospecting,Bioprospecting,3
+Expert5,ELTONIAN,advanced,Bioprospecting,Bioprospecting,2
+Expert5,LINNEAN,baseline,Conservation,Climate Change ,3.5
+Expert5,LINNEAN,intermediate,Conservation,Climate Change ,2
+Expert5,LINNEAN,advanced,Conservation,Climate Change ,2
+Expert5,PRESTONIAN,baseline,Conservation,Climate Change ,4
+Expert5,PRESTONIAN,intermediate,Conservation,Climate Change ,4.5
+Expert5,PRESTONIAN,advanced,Conservation,Climate Change ,4.5
+Expert5,WALLACEAN,baseline,Conservation,Climate Change ,4.5
+Expert5,WALLACEAN,intermediate,Conservation,Climate Change ,5
+Expert5,WALLACEAN,advanced,Conservation,Climate Change ,4
+Expert5,DARWINIAN,baseline,Conservation,Climate Change ,3
+Expert5,DARWINIAN,intermediate,Conservation,Climate Change ,3
+Expert5,DARWINIAN,advanced,Conservation,Climate Change ,2
+Expert5,RAUNKIAERAN,baseline,Conservation,Climate Change ,2.5
+Expert5,RAUNKIAERAN,intermediate,Conservation,Climate Change ,3
+Expert5,RAUNKIAERAN,advanced,Conservation,Climate Change ,3
+Expert5,HUTCHINSONIAN,baseline,Conservation,Climate Change ,4
+Expert5,HUTCHINSONIAN,intermediate,Conservation,Climate Change ,3
+Expert5,HUTCHINSONIAN,advanced,Conservation,Climate Change ,2.5
+Expert5,ELTONIAN,baseline,Conservation,Climate Change ,4
+Expert5,ELTONIAN,intermediate,Conservation,Climate Change ,3
+Expert5,ELTONIAN,advanced,Conservation,Climate Change ,4
+Expert5,LINNEAN,baseline,Conservation,Pollution,2.5
+Expert5,LINNEAN,intermediate,Conservation,Pollution,1.5
+Expert5,LINNEAN,advanced,Conservation,Pollution,1
+Expert5,PRESTONIAN,baseline,Conservation,Pollution,3
+Expert5,PRESTONIAN,intermediate,Conservation,Pollution,2
+Expert5,PRESTONIAN,advanced,Conservation,Pollution,2
+Expert5,WALLACEAN,baseline,Conservation,Pollution,2
+Expert5,WALLACEAN,intermediate,Conservation,Pollution,2
+Expert5,WALLACEAN,advanced,Conservation,Pollution,1.5
+Expert5,DARWINIAN,baseline,Conservation,Pollution,1.5
+Expert5,DARWINIAN,intermediate,Conservation,Pollution,1.5
+Expert5,DARWINIAN,advanced,Conservation,Pollution,1
+Expert5,RAUNKIAERAN,baseline,Conservation,Pollution,1.5
+Expert5,RAUNKIAERAN,intermediate,Conservation,Pollution,1.5
+Expert5,RAUNKIAERAN,advanced,Conservation,Pollution,1.5
+Expert5,HUTCHINSONIAN,baseline,Conservation,Pollution,3
+Expert5,HUTCHINSONIAN,intermediate,Conservation,Pollution,1.5
+Expert5,HUTCHINSONIAN,advanced,Conservation,Pollution,2
+Expert5,ELTONIAN,baseline,Conservation,Pollution,2
+Expert5,ELTONIAN,intermediate,Conservation,Pollution,2
+Expert5,ELTONIAN,advanced,Conservation,Pollution,2
+Expert5,LINNEAN,baseline,Conservation,Resource Extraction,2
+Expert5,LINNEAN,intermediate,Conservation,Resource Extraction,2
+Expert5,LINNEAN,advanced,Conservation,Resource Extraction,1
+Expert5,PRESTONIAN,baseline,Conservation,Resource Extraction,4
+Expert5,PRESTONIAN,intermediate,Conservation,Resource Extraction,5
+Expert5,PRESTONIAN,advanced,Conservation,Resource Extraction,4.5
+Expert5,WALLACEAN,baseline,Conservation,Resource Extraction,3.5
+Expert5,WALLACEAN,intermediate,Conservation,Resource Extraction,4
+Expert5,WALLACEAN,advanced,Conservation,Resource Extraction,3
+Expert5,DARWINIAN,baseline,Conservation,Resource Extraction,2.5
+Expert5,DARWINIAN,intermediate,Conservation,Resource Extraction,1.5
+Expert5,DARWINIAN,advanced,Conservation,Resource Extraction,1.5
+Expert5,RAUNKIAERAN,baseline,Conservation,Resource Extraction,1.5
+Expert5,RAUNKIAERAN,intermediate,Conservation,Resource Extraction,1.5
+Expert5,RAUNKIAERAN,advanced,Conservation,Resource Extraction,1.5
+Expert5,HUTCHINSONIAN,baseline,Conservation,Resource Extraction,1.5
+Expert5,HUTCHINSONIAN,intermediate,Conservation,Resource Extraction,1
+Expert5,HUTCHINSONIAN,advanced,Conservation,Resource Extraction,3
+Expert5,ELTONIAN,baseline,Conservation,Resource Extraction,3.5
+Expert5,ELTONIAN,intermediate,Conservation,Resource Extraction,2.5
+Expert5,ELTONIAN,advanced,Conservation,Resource Extraction,4

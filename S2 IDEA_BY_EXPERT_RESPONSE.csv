@@ -1,0 +1,681 @@
+Expert,Shortfall,BestEstimateR,MinKnowledge,MaxKnowledge,ConfExpert,CredExpert,Domain,Group,FuncGroup,Subgroup
+Annon1,DARWINIAN,45,40,50,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon1,DARWINIAN,62,60,65,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon1,DARWINIAN,80,78,85,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon1,DARWINIAN,80,75,85,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon1,DARWINIAN,80,75,85,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon1,DARWINIAN,85,80,87,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon1,ELTONIAN,12,10,15,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon1,ELTONIAN,17,15,20,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon1,ELTONIAN,80,78,85,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon1,ELTONIAN,80,75,85,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon1,ELTONIAN,80,75,85,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon1,ELTONIAN,85,80,87,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon1,HUTCHINSONIAN,0,0,0.1,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon1,HUTCHINSONIAN,25,20,27,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon1,HUTCHINSONIAN,80,78,85,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon1,HUTCHINSONIAN,80,75,85,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon1,HUTCHINSONIAN,80,75,85,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon1,HUTCHINSONIAN,85,80,87,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon1,LINNEAN,85,80,90,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon1,LINNEAN,85,80,90,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon1,LINNEAN,99,98.5,99.5,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon1,LINNEAN,99.5,99,100,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon1,LINNEAN,99.5,99,100,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon1,LINNEAN,99.5,99,100,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon1,PRESTONIAN,35,30,40,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon1,PRESTONIAN,55,50,57,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon1,PRESTONIAN,75,70,77,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon1,PRESTONIAN,85,80,90,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon1,PRESTONIAN,87,85,90,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon1,PRESTONIAN,95,90,97,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon1,RAUNKIAERAN,32,30,35,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon1,RAUNKIAERAN,32,30,35,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon1,RAUNKIAERAN,80,78,85,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon1,RAUNKIAERAN,80,75,85,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon1,RAUNKIAERAN,80,75,85,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon1,RAUNKIAERAN,85,80,87,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon1,WALLACEAN,35,30,40,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon1,WALLACEAN,55,50,57,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon1,WALLACEAN,80,75,85,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon1,WALLACEAN,85,85,90,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon1,WALLACEAN,99,98,100,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon1,WALLACEAN,99,95,100,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon2,DARWINIAN,10.5,10,11,80,80,Microorganisms,Procaryota,Bacteria,
+Annon2,DARWINIAN,10.5,10,11,80,80,Microorganisms,Procaryota,Archaea,
+Annon2,DARWINIAN,10.5,10,11,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon2,DARWINIAN,10.5,10,11,80,80,Microorganisms,Virus,Virus,
+Annon2,ELTONIAN,8.5,8,9,80,80,Microorganisms,Procaryota,Bacteria,
+Annon2,ELTONIAN,8.5,8,9,80,80,Microorganisms,Procaryota,Archaea,
+Annon2,ELTONIAN,8.5,8,9,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon2,ELTONIAN,8.5,8,9,80,80,Microorganisms,Virus,Virus,
+Annon2,HUTCHINSONIAN,6.5,6,7,80,80,Microorganisms,Procaryota,Bacteria,
+Annon2,HUTCHINSONIAN,6.5,6,7,80,80,Microorganisms,Procaryota,Archaea,
+Annon2,HUTCHINSONIAN,6.5,6,7,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon2,HUTCHINSONIAN,6.5,6,7,80,80,Microorganisms,Virus,Virus,
+Annon2,LINNEAN,10.5,10,11,80,80,Microorganisms,Procaryota,Bacteria,
+Annon2,LINNEAN,10.5,10,11,80,80,Microorganisms,Procaryota,Archaea,
+Annon2,LINNEAN,10.5,10,11,80,80,Microorganisms,Virus,Virus,
+Annon2,LINNEAN,55,50,60,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon2,RAUNKIAERAN,6.5,6,7,80,80,Microorganisms,Procaryota,Bacteria,
+Annon2,RAUNKIAERAN,6.5,6,7,80,80,Microorganisms,Procaryota,Archaea,
+Annon2,RAUNKIAERAN,6.5,6,7,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon2,RAUNKIAERAN,6.5,6,7,80,80,Microorganisms,Virus,Virus,
+Annon2,WALLACEAN,6.5,6,7,80,80,Microorganisms,Procaryota,Bacteria,
+Annon2,WALLACEAN,6.5,6,7,80,80,Microorganisms,Procaryota,Archaea,
+Annon2,WALLACEAN,6.5,6,7,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon2,WALLACEAN,6.5,6,7,80,80,Microorganisms,Virus,Virus,
+Annon3,DARWINIAN,1,0.1,5,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon3,DARWINIAN,3,1,10,80,80,Microorganisms,Virus,Virus,
+Annon3,DARWINIAN,5,3,10,80,80,Microorganisms,Procaryota,Bacteria,
+Annon3,DARWINIAN,5,3,10,80,80,Microorganisms,Procaryota,Archaea,
+Annon3,DARWINIAN,10,3,20,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon3,DARWINIAN,30,15,60,90,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon3,DARWINIAN,30,10,50,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon3,DARWINIAN,40,55,60,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon3,DARWINIAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon3,ELTONIAN,1,0.1,2,80,80,Microorganisms,Virus,Virus,
+Annon3,ELTONIAN,5,1,10,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon3,ELTONIAN,8,3,15,80,80,Microorganisms,Procaryota,Archaea,
+Annon3,ELTONIAN,10,20,30,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon3,ELTONIAN,10,5,25,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon3,ELTONIAN,10,3,20,80,80,Microorganisms,Procaryota,Bacteria,
+Annon3,ELTONIAN,30,10,50,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon3,ELTONIAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon3,HUTCHINSONIAN,1,0.1,5,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon3,HUTCHINSONIAN,1,0.1,2,80,80,Microorganisms,Virus,Virus,
+Annon3,HUTCHINSONIAN,8,3,15,80,80,Microorganisms,Procaryota,Archaea,
+Annon3,HUTCHINSONIAN,20,15,30,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon3,HUTCHINSONIAN,30,15,40,80,80,Microorganisms,Procaryota,Bacteria,
+Annon3,HUTCHINSONIAN,40,50,60,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon3,HUTCHINSONIAN,40,25,60,90,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon3,HUTCHINSONIAN,40,15,60,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon3,HUTCHINSONIAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon3,LINNEAN,3,1,10,80,80,Microorganisms,Virus,Virus,
+Annon3,LINNEAN,5,1,10,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon3,LINNEAN,10,5,25,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon3,LINNEAN,10,3,20,80,80,Microorganisms,Procaryota,Bacteria,
+Annon3,LINNEAN,10,3,20,80,80,Microorganisms,Procaryota,Archaea,
+Annon3,LINNEAN,40,25,60,90,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon3,LINNEAN,40,15,60,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon3,LINNEAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon3,LINNEAN,85,80,90,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon3,PRESTONIAN,3,1,8,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon3,PRESTONIAN,3,1,10,80,80,Microorganisms,Virus,Virus,
+Annon3,PRESTONIAN,5,3,10,80,80,Microorganisms,Procaryota,Bacteria,
+Annon3,PRESTONIAN,5,3,10,80,80,Microorganisms,Procaryota,Archaea,
+Annon3,PRESTONIAN,15,5,20,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon3,PRESTONIAN,20,25,30,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon3,PRESTONIAN,40,25,60,90,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon3,PRESTONIAN,40,15,60,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon3,PRESTONIAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon3,RAUNKIAERAN,1,0.1,2,80,80,Microorganisms,Virus,Virus,
+Annon3,RAUNKIAERAN,5,1,10,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon3,RAUNKIAERAN,15,30,45,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon3,RAUNKIAERAN,30,10,50,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon3,RAUNKIAERAN,30,10,40,80,80,Microorganisms,Procaryota,Archaea,
+Annon3,RAUNKIAERAN,40,30,70,90,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon3,RAUNKIAERAN,40,20,60,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon3,RAUNKIAERAN,40,20,60,80,80,Microorganisms,Procaryota,Bacteria,
+Annon3,RAUNKIAERAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon3,WALLACEAN,3,1,10,80,80,Microorganisms,Virus,Virus,
+Annon3,WALLACEAN,5,1,10,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon3,WALLACEAN,8,3,15,80,80,Microorganisms,Procaryota,Bacteria,
+Annon3,WALLACEAN,8,3,15,80,80,Microorganisms,Procaryota,Archaea,
+Annon3,WALLACEAN,10,3,20,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon3,WALLACEAN,40,25,60,90,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon3,WALLACEAN,40,15,60,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon3,WALLACEAN,60,50,70,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon3,WALLACEAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon4,DARWINIAN,0.2,0.1,0.3,80,80,Microorganisms,Virus,Virus,
+Annon4,DARWINIAN,0.5,0.1,1,80,80,Microorganisms,Procaryota,Archaea,
+Annon4,DARWINIAN,5,0.5,10,90,80,Microorganisms,Procaryota,Bacteria,
+Annon4,DARWINIAN,5,2,7.5,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon4,DARWINIAN,30,25,35,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon4,DARWINIAN,50,40,60,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon4,ELTONIAN,0.1,0,0.2,80,80,Microorganisms,Procaryota,Archaea,
+Annon4,ELTONIAN,1,0.25,1.5,80,80,Microorganisms,Virus,Virus,
+Annon4,ELTONIAN,1,0.1,2,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon4,ELTONIAN,1,0.1,2,90,80,Microorganisms,Procaryota,Bacteria,
+Annon4,ELTONIAN,20,10,30,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon4,ELTONIAN,20,10,30,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon4,HUTCHINSONIAN,0.05,0,0.1,80,80,Microorganisms,Virus,Virus,
+Annon4,HUTCHINSONIAN,1,0.1,2,80,80,Microorganisms,Procaryota,Archaea,
+Annon4,HUTCHINSONIAN,3,1,5,90,80,Microorganisms,Procaryota,Bacteria,
+Annon4,HUTCHINSONIAN,5,1,10,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon4,HUTCHINSONIAN,50,40,60,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon4,HUTCHINSONIAN,60,50,70,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon4,LINNEAN,1,0.1,2,80,80,Microorganisms,Virus,Virus,
+Annon4,LINNEAN,2,1,5,80,80,Microorganisms,Procaryota,Archaea,
+Annon4,LINNEAN,10,5,20,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon4,LINNEAN,20,10,30,90,80,Microorganisms,Procaryota,Bacteria,
+Annon4,LINNEAN,50,40,60,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon4,LINNEAN,65,55,75,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon4,PRESTONIAN,0.2,0.1,0.3,80,80,Microorganisms,Virus,Virus,
+Annon4,PRESTONIAN,0.5,0.1,1,80,80,Microorganisms,Procaryota,Archaea,
+Annon4,PRESTONIAN,2,1,4,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon4,PRESTONIAN,2,1,5,90,80,Microorganisms,Procaryota,Bacteria,
+Annon4,PRESTONIAN,20,15,25,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon4,PRESTONIAN,30,20,35,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon4,RAUNKIAERAN,0.1,0,1,80,80,Microorganisms,Procaryota,Archaea,
+Annon4,RAUNKIAERAN,0.1,0,0.2,80,80,Microorganisms,Virus,Virus,
+Annon4,RAUNKIAERAN,2,0.5,4,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon4,RAUNKIAERAN,2,0.5,5,90,80,Microorganisms,Procaryota,Bacteria,
+Annon4,RAUNKIAERAN,40,30,50,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon4,RAUNKIAERAN,40,30,50,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon4,WALLACEAN,0.1,0.05,0.2,80,80,Microorganisms,Virus,Virus,
+Annon4,WALLACEAN,5,2.5,7.5,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon4,WALLACEAN,5,1,10,90,80,Microorganisms,Procaryota,Bacteria,
+Annon4,WALLACEAN,40,30,50,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon4,WALLACEAN,50,40,60,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon5,DARWINIAN,30,10,50,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon5,DARWINIAN,30,10,50,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon5,DARWINIAN,30,10,40,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon5,DARWINIAN,40,20,60,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon5,DARWINIAN,50,30,60,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon5,ELTONIAN,40,60,70,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon5,ELTONIAN,40,10,60,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon5,ELTONIAN,40,10,50,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon5,ELTONIAN,50,40,60,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon5,ELTONIAN,50,30,60,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon5,HUTCHINSONIAN,30,10,40,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon5,HUTCHINSONIAN,40,50,60,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon5,HUTCHINSONIAN,40,20,50,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon5,HUTCHINSONIAN,40,10,60,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon5,HUTCHINSONIAN,50,40,60,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon5,LINNEAN,50,20,60,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon5,LINNEAN,60,40,80,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon5,LINNEAN,70,50,80,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon5,LINNEAN,80,60,90,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon5,LINNEAN,80,60,90,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon5,PRESTONIAN,10,40,50,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon5,PRESTONIAN,20,5,40,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon5,PRESTONIAN,30,10,40,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon5,PRESTONIAN,40,10,60,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon5,PRESTONIAN,40,10,50,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon5,RAUNKIAERAN,20,5,30,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon5,RAUNKIAERAN,20,5,30,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon5,RAUNKIAERAN,40,20,60,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon5,RAUNKIAERAN,40,10,50,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon5,RAUNKIAERAN,50,30,60,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon5,WALLACEAN,40,60,70,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon5,WALLACEAN,40,20,60,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon5,WALLACEAN,50,30,70,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon5,WALLACEAN,50,30,70,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon5,WALLACEAN,60,30,70,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon6,DARWINIAN,50,20,60,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon6,DARWINIAN,80,70,100,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon6,DARWINIAN,80,70,100,90,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon6,DARWINIAN,80,70,100,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon6,DARWINIAN,80,70,100,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon6,ELTONIAN,40,20,50,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon6,ELTONIAN,60,50,80,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon6,ELTONIAN,60,50,80,90,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon6,ELTONIAN,60,50,70,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon6,ELTONIAN,60,50,80,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon6,HUTCHINSONIAN,40,20,50,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon6,HUTCHINSONIAN,60,50,80,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon6,HUTCHINSONIAN,60,50,70,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon6,HUTCHINSONIAN,70,60,80,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon6,HUTCHINSONIAN,70,60,80,90,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon6,LINNEAN,50,20,60,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon6,LINNEAN,80,70,100,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon6,LINNEAN,80,70,100,90,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon6,LINNEAN,80,70,100,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon6,LINNEAN,80,70,100,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon6,PRESTONIAN,40,30,50,90,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon6,PRESTONIAN,40,20,50,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon6,PRESTONIAN,60,50,80,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon6,PRESTONIAN,70,60,80,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon6,PRESTONIAN,80,70,100,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon6,RAUNKIAERAN,40,20,50,90,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon6,RAUNKIAERAN,50,20,60,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon6,RAUNKIAERAN,70,60,80,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon6,RAUNKIAERAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon6,RAUNKIAERAN,80,70,90,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon6,WALLACEAN,40,20,50,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon6,WALLACEAN,70,60,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon6,WALLACEAN,70,60,90,90,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon6,WALLACEAN,70,60,80,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon6,WALLACEAN,70,60,90,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon7,DARWINIAN,0,0,0.01,80,80,Microorganisms,Virus,Virus,
+Annon7,DARWINIAN,0.03,0.01,0.05,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon7,DARWINIAN,0.03,0.01,0.05,90,80,Microorganisms,Procaryota,Bacteria,
+Annon7,DARWINIAN,0.3,0.1,0.5,90,80,Microorganisms,Procaryota,Archaea,
+Annon7,ELTONIAN,0.03,0.01,0.05,90,80,Microorganisms,Procaryota,Archaea,
+Annon7,ELTONIAN,0.03,0.01,0.05,80,80,Microorganisms,Virus,Virus,
+Annon7,ELTONIAN,0.3,0.1,0.5,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon7,ELTONIAN,0.3,0.1,0.5,90,80,Microorganisms,Procaryota,Bacteria,
+Annon7,HUTCHINSONIAN,0,0,0.1,80,80,Microorganisms,Virus,Virus,
+Annon7,HUTCHINSONIAN,0,0,0.01,90,80,Microorganisms,Procaryota,Archaea,
+Annon7,HUTCHINSONIAN,0.01,0.01,0.01,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon7,HUTCHINSONIAN,0.03,0.01,0.05,90,80,Microorganisms,Procaryota,Bacteria,
+Annon7,LINNEAN,0.03,0.01,0.05,80,80,Microorganisms,Virus,Virus,
+Annon7,LINNEAN,3,1,5,90,80,Microorganisms,Procaryota,Bacteria,
+Annon7,LINNEAN,3.5,2,5,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon7,LINNEAN,15,10,20,90,80,Microorganisms,Procaryota,Archaea,
+Annon7,PRESTONIAN,0.02,0.01,0.02,80,80,Microorganisms,Virus,Virus,
+Annon7,PRESTONIAN,0.25,0.2,0.3,90,80,Microorganisms,Procaryota,Archaea,
+Annon7,PRESTONIAN,0.3,0.1,0.5,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon7,PRESTONIAN,0.3,0.1,0.5,90,80,Microorganisms,Procaryota,Bacteria,
+Annon7,RAUNKIAERAN,0,0,0.01,80,80,Microorganisms,Virus,Virus,
+Annon7,RAUNKIAERAN,0.35,0.2,0.5,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon7,RAUNKIAERAN,2.5,1,5,90,80,Microorganisms,Procaryota,Bacteria,
+Annon7,RAUNKIAERAN,15,10,20,90,80,Microorganisms,Procaryota,Archaea,
+Annon7,WALLACEAN,0.02,0.01,0.02,80,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon7,WALLACEAN,0.02,0.01,0.02,90,80,Microorganisms,Procaryota,Bacteria,
+Annon7,WALLACEAN,0.02,0.01,0.02,90,80,Microorganisms,Procaryota,Archaea,
+Annon7,WALLACEAN,0.02,0.01,0.02,80,80,Microorganisms,Virus,Virus,
+Annon8,DARWINIAN,2,1,5,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon8,DARWINIAN,30,10,80,90,80,Plantae,Embryophyta,Bryophytes,
+Annon8,DARWINIAN,30,10,80,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon8,DARWINIAN,98,90,99,80,80,Plantae,Embryophyta,Vascular,
+Annon8,ELTONIAN,2,1,5,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon8,ELTONIAN,5,1,10,90,80,Plantae,Embryophyta,Bryophytes,
+Annon8,ELTONIAN,5,1,15,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon8,ELTONIAN,50,5,60,80,80,Plantae,Embryophyta,Vascular,
+Annon8,HUTCHINSONIAN,2,1,5,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon8,HUTCHINSONIAN,15,5,40,90,80,Plantae,Embryophyta,Bryophytes,
+Annon8,HUTCHINSONIAN,15,5,50,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon8,HUTCHINSONIAN,80,60,90,80,80,Plantae,Embryophyta,Vascular,
+Annon8,LINNEAN,5,5,30,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon8,LINNEAN,70,40,90,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon8,LINNEAN,90,70,95,90,80,Plantae,Embryophyta,Bryophytes,
+Annon8,LINNEAN,99,95,100,80,80,Plantae,Embryophyta,Vascular,
+Annon8,PRESTONIAN,2,1,5,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon8,PRESTONIAN,30,10,50,90,80,Plantae,Embryophyta,Bryophytes,
+Annon8,PRESTONIAN,30,10,50,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon8,PRESTONIAN,80,60,90,80,80,Plantae,Embryophyta,Vascular,
+Annon8,RAUNKIAERAN,2,1,5,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon8,RAUNKIAERAN,20,10,60,90,80,Plantae,Embryophyta,Bryophytes,
+Annon8,RAUNKIAERAN,30,10,60,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon8,RAUNKIAERAN,85,70,90,80,80,Plantae,Embryophyta,Vascular,
+Annon8,WALLACEAN,3,1,10,80,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon8,WALLACEAN,40,15,80,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon8,WALLACEAN,50,20,80,90,80,Plantae,Embryophyta,Bryophytes,
+Annon8,WALLACEAN,95,75,97,80,80,Plantae,Embryophyta,Vascular,
+Annon9,DARWINIAN,80,70,90,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon9,DARWINIAN,80,70,90,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon9,DARWINIAN,97,95,100,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon9,DARWINIAN,97,95,99,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon9,ELTONIAN,50,40,60,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon9,ELTONIAN,60,75,90,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon9,ELTONIAN,60,50,70,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon9,ELTONIAN,80,70,90,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon9,HUTCHINSONIAN,75,70,85,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon9,HUTCHINSONIAN,90,85,95,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon9,HUTCHINSONIAN,90,80,95,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon9,HUTCHINSONIAN,90,85,95,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon9,LINNEAN,99,98,100,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon9,LINNEAN,100,99,100,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon9,LINNEAN,100,99,100,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon9,LINNEAN,100,99,100,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon9,PRESTONIAN,60,50,70,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon9,PRESTONIAN,70,60,80,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon9,PRESTONIAN,90,85,95,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon9,PRESTONIAN,99,98,100,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon9,RAUNKIAERAN,50,30,70,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon9,RAUNKIAERAN,70,60,80,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon9,RAUNKIAERAN,80,70,90,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon9,RAUNKIAERAN,90,80,95,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon9,WALLACEAN,50,30,70,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon9,WALLACEAN,75,60,90,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon9,WALLACEAN,85,80,90,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon9,WALLACEAN,95,80,99,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon10,DARWINIAN,75,70,90,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon10,DARWINIAN,85,80,99,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon10,DARWINIAN,90,80,95,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon10,DARWINIAN,95,80,95,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon10,ELTONIAN,75,50,80,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon10,ELTONIAN,80,70,90,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon10,ELTONIAN,80,75,90,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon10,ELTONIAN,85,75,90,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon10,HUTCHINSONIAN,50,40,60,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon10,HUTCHINSONIAN,60,50,70,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon10,HUTCHINSONIAN,60,50,70,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon10,HUTCHINSONIAN,60,50,70,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon10,LINNEAN,90,80,99,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon10,LINNEAN,98,96,100,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon10,LINNEAN,100,90,100,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon10,LINNEAN,100,90,100,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon10,PRESTONIAN,80,75,85,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon10,PRESTONIAN,90,70,95,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon10,PRESTONIAN,93,70,95,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon10,PRESTONIAN,95,80,96,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon10,RAUNKIAERAN,60,55,65,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon10,RAUNKIAERAN,75,70,85,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon10,RAUNKIAERAN,75,70,85,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon10,RAUNKIAERAN,80,70,90,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon10,WALLACEAN,80,75,85,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon10,WALLACEAN,90,80,95,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon10,WALLACEAN,95,80,96,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon10,WALLACEAN,95,80,96,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon11,DARWINIAN,0,0,0.01,80,80,Microorganisms,Virus,Virus,
+Annon11,DARWINIAN,0.1,0.01,0.5,80,80,Microorganisms,Procaryota,Bacteria,
+Annon11,DARWINIAN,0.2,0.02,0.5,80,80,Microorganisms,Procaryota,Archaea,
+Annon11,DARWINIAN,0.5,0.02,1,90,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon11,DARWINIAN,0.5,0.02,2,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon11,DARWINIAN,1,0.1,2,60,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon11,DARWINIAN,2,1,5,60,80,Plantae,Embryophyta,Bryophytes,
+Annon11,DARWINIAN,2,1,5,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon11,DARWINIAN,50,10,70,80,80,Plantae,Embryophyta,Vascular,
+Annon11,ELTONIAN,0,0,0.01,80,80,Microorganisms,Virus,Virus,
+Annon11,ELTONIAN,0.01,0,0.05,90,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon11,ELTONIAN,0.01,0,0.05,80,80,Microorganisms,Procaryota,Bacteria,
+Annon11,ELTONIAN,0.02,0,0.05,80,80,Microorganisms,Procaryota,Archaea,
+Annon11,ELTONIAN,0.05,0,0.2,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon11,ELTONIAN,0.1,0,1.5,60,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon11,ELTONIAN,0.5,0.1,5,60,80,Plantae,Embryophyta,Bryophytes,
+Annon11,ELTONIAN,1,0.1,5,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon11,ELTONIAN,40,10,60,80,80,Plantae,Embryophyta,Vascular,
+Annon11,HUTCHINSONIAN,0,0,0,80,80,Microorganisms,Virus,Virus,
+Annon11,HUTCHINSONIAN,0.01,0,0.1,80,80,Microorganisms,Procaryota,Bacteria,
+Annon11,HUTCHINSONIAN,0.01,0,0.1,80,80,Microorganisms,Procaryota,Archaea,
+Annon11,HUTCHINSONIAN,0.05,0,0.1,90,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon11,HUTCHINSONIAN,0.05,0,0.5,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon11,HUTCHINSONIAN,0.2,0,2,60,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon11,HUTCHINSONIAN,1,0.1,5,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon11,HUTCHINSONIAN,2,0.5,5,60,80,Plantae,Embryophyta,Bryophytes,
+Annon11,HUTCHINSONIAN,30,10,50,80,80,Plantae,Embryophyta,Vascular,
+Annon11,LINNEAN,0.01,0,0.1,80,80,Microorganisms,Virus,Virus,
+Annon11,LINNEAN,1,0.1,5,80,80,Microorganisms,Procaryota,Bacteria,
+Annon11,LINNEAN,2,0.2,10,90,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon11,LINNEAN,2,0.2,5,80,80,Microorganisms,Procaryota,Archaea,
+Annon11,LINNEAN,5,0.2,20,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon11,LINNEAN,50,30,75,60,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon11,LINNEAN,70,50,80,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon11,LINNEAN,75,60,90,60,80,Plantae,Embryophyta,Bryophytes,
+Annon11,LINNEAN,100,100,100,80,80,Plantae,Embryophyta,Vascular,
+Annon11,PRESTONIAN,0,0,0,80,80,Microorganisms,Virus,Virus,
+Annon11,PRESTONIAN,0,0,0.05,80,80,Microorganisms,Procaryota,Archaea,
+Annon11,PRESTONIAN,0.01,0,0.1,80,80,Microorganisms,Procaryota,Bacteria,
+Annon11,PRESTONIAN,0.1,0.01,0.5,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon11,PRESTONIAN,0.1,0,0.5,90,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon11,PRESTONIAN,5,2,10,60,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon11,PRESTONIAN,10,5,30,60,80,Plantae,Embryophyta,Bryophytes,
+Annon11,PRESTONIAN,10,5,30,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon11,PRESTONIAN,40,25,60,80,80,Plantae,Embryophyta,Vascular,
+Annon11,RAUNKIAERAN,0,0,0,80,80,Microorganisms,Virus,Virus,
+Annon11,RAUNKIAERAN,0,0,0.05,80,80,Microorganisms,Procaryota,Archaea,
+Annon11,RAUNKIAERAN,0.01,0,0.1,80,80,Microorganisms,Procaryota,Bacteria,
+Annon11,RAUNKIAERAN,0.1,0.01,0.5,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon11,RAUNKIAERAN,0.1,0,0.5,90,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon11,RAUNKIAERAN,0.1,0,1,60,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon11,RAUNKIAERAN,0.5,0.05,3,60,80,Plantae,Embryophyta,Bryophytes,
+Annon11,RAUNKIAERAN,0.5,0.01,2,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon11,RAUNKIAERAN,20,5,40,80,80,Plantae,Embryophyta,Vascular,
+Annon11,WALLACEAN,0,0,0,80,80,Microorganisms,Virus,Virus,
+Annon11,WALLACEAN,0.01,0,0.2,80,80,Microorganisms,Procaryota,Bacteria,
+Annon11,WALLACEAN,0.01,0,0.2,80,80,Microorganisms,Procaryota,Archaea,
+Annon11,WALLACEAN,0.2,0.02,2,90,80,Fungi,Holomycota,Non-lichenic fungi and yeast,
+Annon11,WALLACEAN,1,0.2,5,80,80,Microorganisms,SAR/Chromista,Protozoans,
+Annon11,WALLACEAN,10,2,25,60,80,Microorganisms,SAR/Chromista,Algal mix,
+Annon11,WALLACEAN,20,5,30,60,80,Plantae,Embryophyta,Bryophytes,
+Annon11,WALLACEAN,20,5,30,70,80,Fungi,Holomycota,Lichenic fungi,
+Annon11,WALLACEAN,50,40,70,80,80,Plantae,Embryophyta,Vascular,
+Annon12,DARWINIAN,30,10,40,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon12,DARWINIAN,70,60,80,80,80,Plantae,Embryophyta,Vascular,
+Annon12,ELTONIAN,15,10,20,90,80,Plantae,Embryophyta,Bryophytes,
+Annon12,ELTONIAN,15,10,20,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon12,ELTONIAN,20,10,30,80,80,Plantae,Embryophyta,Vascular,
+Annon12,HUTCHINSONIAN,50,40,60,90,80,Plantae,Embryophyta,Bryophytes,
+Annon12,HUTCHINSONIAN,75,60,80,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon12,HUTCHINSONIAN,95,90,100,80,80,Plantae,Embryophyta,Vascular,
+Annon12,LINNEAN,75,40,85,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon12,PRESTONIAN,30,20,40,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon12,PRESTONIAN,90,80,100,80,80,Plantae,Embryophyta,Vascular,
+Annon12,RAUNKIAERAN,35,10,45,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon12,RAUNKIAERAN,70,60,80,80,80,Plantae,Embryophyta,Vascular,
+Annon12,WALLACEAN,60,30,70,90,80,Fungi,Holomycota,Lichenic fungi,
+Annon13,DARWINIAN,20,10,30,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon13,DARWINIAN,20,10,30,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon13,DARWINIAN,25,15,40,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon13,DARWINIAN,25,15,40,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon13,DARWINIAN,50,20,70,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon13,ELTONIAN,5,2,10,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon13,ELTONIAN,10,5,15,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon13,ELTONIAN,15,5,25,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon13,ELTONIAN,40,30,50,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon13,ELTONIAN,40,30,50,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon13,HUTCHINSONIAN,10,5,15,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon13,HUTCHINSONIAN,10,5,15,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon13,HUTCHINSONIAN,10,5,15,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon13,HUTCHINSONIAN,15,10,20,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon13,HUTCHINSONIAN,20,10,30,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon13,LINNEAN,20,5,30,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon13,LINNEAN,25,10,40,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon13,LINNEAN,40,20,50,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon13,LINNEAN,70,50,80,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon13,LINNEAN,80,50,90,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon13,PRESTONIAN,10,5,15,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon13,PRESTONIAN,15,5,25,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon13,PRESTONIAN,15,5,25,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon13,PRESTONIAN,20,10,40,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon13,PRESTONIAN,20,5,30,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon13,RAUNKIAERAN,20,15,25,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon13,RAUNKIAERAN,30,20,40,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon13,RAUNKIAERAN,40,30,50,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon13,RAUNKIAERAN,40,20,60,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon13,RAUNKIAERAN,50,30,70,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon13,WALLACEAN,25,15,40,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon13,WALLACEAN,25,10,40,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon13,WALLACEAN,30,20,40,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon13,WALLACEAN,50,30,60,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon13,WALLACEAN,50,30,60,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon14,DARWINIAN,50,40,60,80,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon14,DARWINIAN,60,50,70,80,80,Plantae,Embryophyta,Bryophytes,
+Annon14,DARWINIAN,85,80,90,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon14,DARWINIAN,90,80,95,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon14,DARWINIAN,95,90,100,90,80,Plantae,Embryophyta,Vascular,
+Annon14,ELTONIAN,50,40,60,80,80,Plantae,Embryophyta,Bryophytes,
+Annon14,ELTONIAN,70,60,80,90,80,Plantae,Embryophyta,Vascular,
+Annon14,HUTCHINSONIAN,5,2.5,10,90,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon14,HUTCHINSONIAN,5,2.5,10,90,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon14,HUTCHINSONIAN,20,10,30,90,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon14,HUTCHINSONIAN,30,25,35,80,80,Plantae,Embryophyta,Bryophytes,
+Annon14,HUTCHINSONIAN,30,20,40,90,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon14,HUTCHINSONIAN,40,30,50,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon14,HUTCHINSONIAN,60,50,70,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon14,HUTCHINSONIAN,60,50,70,90,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon14,HUTCHINSONIAN,60,50,70,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon14,HUTCHINSONIAN,65,55,75,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon14,HUTCHINSONIAN,80,70,90,90,80,Plantae,Embryophyta,Vascular,
+Annon14,LINNEAN,50,20,70,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon14,LINNEAN,50,20,70,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon14,LINNEAN,50,20,70,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon14,LINNEAN,90,70,100,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon14,LINNEAN,90,70,95,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon14,LINNEAN,95,90,100,80,80,Plantae,Embryophyta,Bryophytes,
+Annon14,LINNEAN,100,99,100,90,80,Plantae,Embryophyta,Vascular,
+Annon14,LINNEAN,100,95,100,90,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon14,LINNEAN,100,95,100,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon14,LINNEAN,100,95,100,90,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon14,LINNEAN,100,95,100,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon14,PRESTONIAN,5,2.5,10,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon14,PRESTONIAN,10,5,15,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon14,PRESTONIAN,20,15,25,70,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon14,PRESTONIAN,20,15,25,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon14,PRESTONIAN,20,15,25,70,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon14,PRESTONIAN,30,20,40,80,80,Plantae,Embryophyta,Bryophytes,
+Annon14,PRESTONIAN,80,70,90,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon14,PRESTONIAN,80,70,90,90,80,Plantae,Embryophyta,Vascular,
+Annon14,PRESTONIAN,80,70,90,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon14,PRESTONIAN,90,85,95,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon14,PRESTONIAN,97,95,100,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon14,RAUNKIAERAN,10,5,15,70,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon14,RAUNKIAERAN,10,5,15,70,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon14,RAUNKIAERAN,10,5,15,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon14,RAUNKIAERAN,10,5,15,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon14,RAUNKIAERAN,15,10,20,70,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon14,RAUNKIAERAN,20,15,25,80,80,Plantae,Embryophyta,Bryophytes,
+Annon14,RAUNKIAERAN,70,60,80,90,80,Plantae,Embryophyta,Vascular,
+Annon14,RAUNKIAERAN,80,70,90,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon14,RAUNKIAERAN,80,70,90,70,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon14,RAUNKIAERAN,80,70,90,70,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon14,RAUNKIAERAN,85,75,95,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon14,WALLACEAN,60,50,70,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon14,WALLACEAN,80,70,90,80,80,Plantae,Embryophyta,Bryophytes,
+Annon14,WALLACEAN,90,80,95,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon14,WALLACEAN,90,80,95,90,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon14,WALLACEAN,95,90,99,90,80,Plantae,Embryophyta,Vascular,
+Annon15,DARWINIAN,35,30,40,60,80,Fungi,Holomycota,Lichenic fungi,
+Annon15,DARWINIAN,40,30,50,70,80,Plantae,Embryophyta,Bryophytes,
+Annon15,DARWINIAN,80,70,90,90,80,Plantae,Embryophyta,Vascular,
+Annon15,ELTONIAN,45,40,50,60,80,Fungi,Holomycota,Lichenic fungi,
+Annon15,ELTONIAN,50,45,55,70,80,Plantae,Embryophyta,Bryophytes,
+Annon15,ELTONIAN,80,75,85,90,80,Plantae,Embryophyta,Vascular,
+Annon15,HUTCHINSONIAN,55,50,60,70,80,Plantae,Embryophyta,Bryophytes,
+Annon15,HUTCHINSONIAN,55,50,60,60,80,Fungi,Holomycota,Lichenic fungi,
+Annon15,HUTCHINSONIAN,90,85,95,90,80,Plantae,Embryophyta,Vascular,
+Annon15,LINNEAN,45,40,50,60,80,Fungi,Holomycota,Lichenic fungi,
+Annon15,LINNEAN,55,50,60,70,80,Plantae,Embryophyta,Bryophytes,
+Annon15,LINNEAN,100,100,100,90,80,Plantae,Embryophyta,Vascular,
+Annon15,PRESTONIAN,40,30,50,70,80,Plantae,Embryophyta,Bryophytes,
+Annon15,PRESTONIAN,40,30,50,60,80,Fungi,Holomycota,Lichenic fungi,
+Annon15,PRESTONIAN,65,50,80,90,80,Plantae,Embryophyta,Vascular,
+Annon15,RAUNKIAERAN,35,30,40,70,80,Plantae,Embryophyta,Bryophytes,
+Annon15,RAUNKIAERAN,45,40,50,60,80,Fungi,Holomycota,Lichenic fungi,
+Annon15,RAUNKIAERAN,80,75,85,90,80,Plantae,Embryophyta,Vascular,
+Annon15,WALLACEAN,35,30,40,60,80,Fungi,Holomycota,Lichenic fungi,
+Annon15,WALLACEAN,50,40,60,70,80,Plantae,Embryophyta,Bryophytes,
+Annon15,WALLACEAN,70,60,80,90,80,Plantae,Embryophyta,Vascular,
+Annon16,DARWINIAN,85,80,90,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon16,DARWINIAN,85,80,90,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon16,DARWINIAN,87,82,92,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon16,DARWINIAN,90,85,95,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon16,ELTONIAN,82,77,87,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon16,ELTONIAN,85,80,90,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon16,ELTONIAN,85,80,90,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon16,ELTONIAN,90,80,95,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon16,HUTCHINSONIAN,75,70,80,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon16,HUTCHINSONIAN,75,70,80,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon16,HUTCHINSONIAN,75,70,80,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon16,HUTCHINSONIAN,80,70,85,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon16,LINNEAN,96,98,100,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon16,LINNEAN,98,96,100,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon16,LINNEAN,98,96,100,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon16,LINNEAN,98,96,100,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon16,PRESTONIAN,80,78,82,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon16,PRESTONIAN,85,83,87,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon16,PRESTONIAN,87,84,90,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon16,PRESTONIAN,90,85,95,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon16,RAUNKIAERAN,65,70,75,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon16,RAUNKIAERAN,70,65,75,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon16,RAUNKIAERAN,72,67,77,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon16,RAUNKIAERAN,75,65,80,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon16,WALLACEAN,85,80,90,70,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon16,WALLACEAN,85,80,90,90,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon16,WALLACEAN,85,80,90,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon16,WALLACEAN,90,88,92,70,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon17,DARWINIAN,40,35,45,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon17,DARWINIAN,40,35,45,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon17,DARWINIAN,45,40,50,60,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon17,DARWINIAN,50,45,55,60,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon17,DARWINIAN,75,65,85,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon17,ELTONIAN,50,40,60,60,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon17,ELTONIAN,50,40,60,60,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon17,ELTONIAN,50,40,60,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon17,ELTONIAN,55,50,60,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon17,ELTONIAN,55,50,60,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon17,HUTCHINSONIAN,50,45,55,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon17,HUTCHINSONIAN,50,45,55,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon17,HUTCHINSONIAN,60,55,65,60,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon17,HUTCHINSONIAN,70,65,75,60,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon17,HUTCHINSONIAN,75,70,80,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon17,LINNEAN,75,65,85,60,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon17,LINNEAN,80,70,90,60,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon17,LINNEAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon17,LINNEAN,80,70,90,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon17,LINNEAN,80,70,90,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon17,PRESTONIAN,45,40,50,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon17,PRESTONIAN,45,40,50,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon17,PRESTONIAN,55,50,60,60,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon17,PRESTONIAN,55,50,60,60,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon17,PRESTONIAN,60,50,70,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon17,RAUNKIAERAN,50,45,55,60,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon17,RAUNKIAERAN,50,45,55,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon17,RAUNKIAERAN,50,45,55,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon17,RAUNKIAERAN,55,50,60,60,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon17,RAUNKIAERAN,55,50,60,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon17,WALLACEAN,55,50,60,70,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon17,WALLACEAN,55,50,60,70,80,Animalia,Invertebrata,Parasite,Gastro-Parasitoids
+Annon17,WALLACEAN,63,60,66,60,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon17,WALLACEAN,70,65,75,60,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon17,WALLACEAN,80,70,90,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon18,DARWINIAN,10,0,15,80,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon18,DARWINIAN,30,10,60,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon18,DARWINIAN,30,10,45,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon18,DARWINIAN,40,30,60,80,80,Fungi,Holomycota,Lichenic fungi,
+Annon18,DARWINIAN,50,30,60,90,80,Plantae,Embryophyta,Bryophytes,
+Annon18,DARWINIAN,50,20,90,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon18,DARWINIAN,95,90,100,90,80,Plantae,Embryophyta,Vascular,
+Annon18,ELTONIAN,1,5,15,80,80,Fungi,Holomycota,Lichenic fungi,
+Annon18,ELTONIAN,5,1,15,90,80,Plantae,Embryophyta,Bryophytes,
+Annon18,ELTONIAN,15,30,40,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon18,ELTONIAN,20,10,30,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon18,ELTONIAN,25,10,35,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon18,ELTONIAN,25,10,35,80,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon18,ELTONIAN,50,40,60,90,80,Plantae,Embryophyta,Vascular,
+Annon18,HUTCHINSONIAN,10,20,30,80,80,Fungi,Holomycota,Lichenic fungi,
+Annon18,HUTCHINSONIAN,15,5,30,80,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon18,HUTCHINSONIAN,25,10,40,90,80,Plantae,Embryophyta,Bryophytes,
+Annon18,HUTCHINSONIAN,35,20,50,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon18,HUTCHINSONIAN,40,20,60,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon18,HUTCHINSONIAN,40,20,60,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon18,HUTCHINSONIAN,80,70,90,90,80,Plantae,Embryophyta,Vascular,
+Annon18,LINNEAN,50,30,60,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon18,LINNEAN,80,70,95,80,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon18,LINNEAN,85,70,95,80,80,Fungi,Holomycota,Lichenic fungi,
+Annon18,LINNEAN,90,85,100,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon18,LINNEAN,90,80,95,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon18,LINNEAN,95,90,98,90,80,Plantae,Embryophyta,Bryophytes,
+Annon18,LINNEAN,100,100,100,90,80,Plantae,Embryophyta,Vascular,
+Annon18,PRESTONIAN,1,5,10,80,80,Fungi,Holomycota,Lichenic fungi,
+Annon18,PRESTONIAN,5,1,10,90,80,Plantae,Embryophyta,Bryophytes,
+Annon18,PRESTONIAN,5,0,10,80,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon18,PRESTONIAN,10,1,20,90,80,Plantae,Embryophyta,Vascular,
+Annon18,PRESTONIAN,10,1,15,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon18,PRESTONIAN,25,10,35,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon18,PRESTONIAN,50,30,60,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon18,RAUNKIAERAN,5,15,30,80,80,Fungi,Holomycota,Lichenic fungi,
+Annon18,RAUNKIAERAN,10,5,20,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon18,RAUNKIAERAN,10,5,20,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon18,RAUNKIAERAN,10,5,15,80,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon18,RAUNKIAERAN,20,10,40,90,80,Plantae,Embryophyta,Bryophytes,
+Annon18,RAUNKIAERAN,20,5,30,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon18,RAUNKIAERAN,75,60,90,90,80,Plantae,Embryophyta,Vascular,
+Annon18,WALLACEAN,30,20,50,80,80,Animalia,Invertebrata,Parasite,Ectoparasite
+Annon18,WALLACEAN,40,20,50,80,80,Animalia,Invertebrata,Free living invertebrates,Non arthropods
+Annon18,WALLACEAN,80,60,90,90,80,Animalia,Invertebrata,Free living invertebrates,Soil Arthropoda
+Annon18,WALLACEAN,80,60,90,80,80,Fungi,Holomycota,Lichenic fungi,
+Annon18,WALLACEAN,85,70,90,90,80,Plantae,Embryophyta,Bryophytes,
+Annon18,WALLACEAN,85,70,90,80,80,Animalia,Invertebrata,Free living invertebrates,Crustaceans
+Annon18,WALLACEAN,100,95,100,90,80,Plantae,Embryophyta,Vascular,
+Annon19,DARWINIAN,85,65,90,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon19,DARWINIAN,90,85,95,80,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon19,DARWINIAN,90,85,95,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon19,DARWINIAN,95,85,100,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon19,ELTONIAN,50,65,80,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon19,ELTONIAN,60,50,70,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon19,ELTONIAN,70,55,80,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon19,ELTONIAN,75,60,80,80,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon19,HUTCHINSONIAN,40,35,60,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon19,HUTCHINSONIAN,40,30,60,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon19,HUTCHINSONIAN,50,20,60,80,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon19,HUTCHINSONIAN,50,20,60,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon19,LINNEAN,90,85,100,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon19,LINNEAN,100,99,100,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon19,LINNEAN,100,95,100,80,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon19,LINNEAN,100,97,100,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon19,PRESTONIAN,65,55,75,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon19,PRESTONIAN,75,60,85,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon19,PRESTONIAN,80,70,90,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon19,PRESTONIAN,85,80,90,80,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon19,RAUNKIAERAN,40,60,70,80,80,Animalia,Vertebrata,Mammalia,Otarids
+Annon19,RAUNKIAERAN,60,40,70,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon19,RAUNKIAERAN,60,30,70,80,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon19,RAUNKIAERAN,60,30,70,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon19,WALLACEAN,40,25,60,80,80,Animalia,Vertebrata,Aves,Other seabirds
+Annon19,WALLACEAN,60,50,70,80,80,Animalia,Vertebrata,Mammalia,Phocids
+Annon19,WALLACEAN,75,70,80,80,80,Animalia,Vertebrata,Aves,Spheniciformes
+Annon19,WALLACEAN,75,70,80,80,80,Animalia,Vertebrata,Mammalia,Otarids
